@@ -4,10 +4,8 @@
 <p align="center"> 《春晓》孟浩然 </p>
 <pre>
 <code>
-<div class='poetry'>
-<p align="center">     春眠不觉晓，处处闻啼鸟。 </p>
-<p align="center">     夜来风雨声，花落知多少。 </p>
-</div>
+春眠不觉晓，处处闻啼鸟。 
+夜来风雨声，花落知多少。 
 </code>
 </pre>
 
