@@ -47,7 +47,7 @@
 <p align="center"> 《山居秋暝》王维 </p>
 <div class='textWrap'>
   <div>空山新雨后，天气晚来秋。</div>
-  <div>明月松间照，清泉石上流。</>
+  <div>明月松间照，清泉石上流。</div>
   <div>竹喧归浣女，莲动下渔舟。</div>
   <div>随意春芳歇，王孙自可留。</div>
 </div>
