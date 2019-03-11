@@ -78,7 +78,7 @@
 <p align="center"> 《千山江雪》Mo </p>
 
 <div class='textWrap'>
-  <div><span class='poetry'>雨</span>里青台头粉掌，</div>
+  <div><span class='poetry'>千</span>里青台头粉掌，</div>
   <div><span class='poetry'>山</span>光青黛落如烟。</div>
   <div><span class='poetry'>江</span>月最烧墙数望，</div>
   <div><span class='poetry'>雪</span>中无事不相看。</div>
