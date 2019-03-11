@@ -2,23 +2,20 @@
 <h3 align="center" color='blue' class='test'> 第一回合：春 </h3>
 
 <p align="center"> 《春晓》孟浩然 </p>
-<pre>
-<code>
-春眠不觉晓，处处闻啼鸟。 
-夜来风雨声，花落知多少。 
-</code>
-</pre>
+
+<div class='textWrap'>
+  <div>春眠不觉晓，处处闻啼鸟。 </div>
+  <div>夜来风雨声，花落知多少。 </>
+</div>
 
 
 <p align="center"> 《春眠啼鸟》Mo </p>
-<pre>
-<code>
-春去两三杯，
-眠宵远樵者。
-啼风容发初，
-鸟雀鸣山色。
-</code>
-</pre>
+<div class='textWrap'>
+ <div><span class='poetry'>春</span>去两三杯，</div>
+ <div><span class='poetry'>眠</span>宵远樵者。</div>
+ <div><span class='poetry'>啼</span>风容发初，</div>
+ <div><span class='poetry'>鸟</span>雀鸣山色。</div>
+</div>
 
 
 
@@ -26,24 +23,21 @@
 
 <p align="center"> 第二回合：夏 </p>
 <p align="center"> 《晓出净慈寺送林子方》杨万里  </p>
-<pre>
-<code>
-毕竟西湖六月中，风光不与四时同。
-接天莲叶无穷碧，映日荷花别样红。 
-</code>
-</pre>
+
+<div class='textWrap'>
+  <div>毕竟西湖六月中，风光不与四时同。</div>
+  <div>接天莲叶无穷碧，映日荷花别样红。 </>
+</div>
 
 
 
 <p align="center"> 《映日荷花》Mo     </p>
-<pre>
-<code>
- 映真林下逢来会，
- 日日宁令物俗情。
- 荷馆浓香春欲尽，
- 花开花落月明新。
-</code>
-</pre>
+<div class='textWrap'>
+ <div><span class='poetry'>映</span>真林下逢来会，</div>
+ <div><span class='poetry'>日</span>日宁令物俗情。</div>
+ <div><span class='poetry'>荷</span>馆浓香春欲尽，</div>
+ <div><span class='poetry'>花</span>开花落月明新。</div>
+</div>
 
 
 
@@ -51,26 +45,22 @@
 <p align="center"> 第三回合：秋 </p>
 
 <p align="center"> 《山居秋暝》王维 </p>
-<pre>
-<code>
-空山新雨后，天气晚来秋。
-明月松间照，清泉石上流。
-竹喧归浣女，莲动下渔舟。 
-随意春芳歇，王孙自可留。
-</code>
-</pre>
+<div class='textWrap'>
+  <div>空山新雨后，天气晚来秋。</div>
+  <div>明月松间照，清泉石上流。</>
+  <div>竹喧归浣女，莲动下渔舟。</div>
+  <div>随意春芳歇，王孙自可留。</div>
+</div>
 
 
 
 <p align="center" > 《空山新雨》Mo </p>
-<pre>
-<code>
-空窗增达趣，
-山静步萝丛。
-新幄寻池上，
-雨声清夜钟。
-</code>
-</pre>
+<div class='textWrap'>
+ <div><span class='poetry'>空</span>窗增达趣，</div>
+ <div><span class='poetry'>山</span>静步萝丛。 </div>
+ <div><span class='poetry'>新</span>幄寻池上，</div>
+ <div><span class='poetry'>雨</span>声清夜钟。</div>
+</div>
 
 
 
@@ -78,24 +68,21 @@
 
 <p align="center"> 第四回合：冬 </p>
 <p align="center"> 《江雪》柳宗元  </p>
-<pre>
-<code>
-千山鸟飞绝，万径人踪灭。 
-孤舟蓑笠翁，独钓寒江雪。
-</code>
-</pre>
+<div class='textWrap'>
+ <div>千山鸟飞绝，万径人踪灭。 </div>
+ <div>孤舟蓑笠翁，独钓寒江雪。</div>
+</div>
 
 
 
 <p align="center"> 《千山江雪》Mo </p>
-<pre>
-<code>
-千里青台头粉掌，
-山光青黛落如烟。
-江月最烧墙数望，
-雪中无事不相看。
-</code>
-</pre>
+
+<div class='textWrap'>
+  <div><span class='poetry'>雨</span>里青台头粉掌，</div>
+  <div><span class='poetry'>山</span>光青黛落如烟。</div>
+  <div><span class='poetry'>江</span>月最烧墙数望，</div>
+  <div><span class='poetry'>雪</span>中无事不相看。</div>
+</div>
 
 
 
