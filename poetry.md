@@ -103,7 +103,9 @@
 ### 数据处理
 
 我们使用76748首古诗词作为数据集，数据集[下载链接](http://www.momodel.cn:8899/#/explore/5c00a6e21afd942b66b36ba8?type=dataset)，原始的古诗词的存储形式如下：
-![image](https://user-images.githubusercontent.com/43362551/51824023-221ea180-231c-11e9-8577-6595844d752f.png)
+
+<img src='https://user-images.githubusercontent.com/43362551/51824023-221ea180-231c-11e9-8577-6595844d752f.png' width=80% height=80%>
+
 我们可以看到原始的古诗词是文本符号的形式，无法直接进行机器学习，所以我们第一步需要把文本信息转换为数据形式，这种转换方式就叫词嵌入(word embedding)，我们采用一种常用的词嵌套(word embedding)算法-Word2vec对古诗词进行编码。关于Word2Vec这里不详细讲解，有兴趣的可以参考[《[NLP] 秒懂词向量Word2vec的本质》](https://zhuanlan.zhihu.com/p/26306795)。在词嵌套过程中，为了避免最终的分类数过于庞大，可以选择去掉出现频率较小的字，比如可以去掉只出现过一次的字。Word2vec算法经过训练后会产生一个模型文件，我们就可以利用这个模型文件对古诗词文本进行词嵌套编码。
 
 经过第一步的处理已经把古诗词词语转换为可以机器学习建模的数字形式，因为我们采用LSTM算法进行古诗词生成，所以还需要构建输入到输出的映射处理。例如：
@@ -126,7 +128,8 @@
 ### 模型构建及训练
 这里我们使用2层的LSTM框架，每层有128个隐藏层节点，我们使用tensorflow.nn模块库来定义网络结构层，其中RNNcell是tensorflow中实现RNN的基本单元，是一个抽象类，在实际应用中多用RNNcell的实现子类BasicRNNCell或者BasicLSTMCell，BasicGRUCell；如果需要构建多层的RNN，在TensorFlow中，可以使用tf.nn.rnn_cell.MultiRNNCell函数对RNNCell进行堆叠。模型网络的第一层要对输入数据进行 embedding，可以理解为数据的维度变换，经过两层LSTM后，接着softMax得到一个在全字典上的输出概率。
 模型网络结构如下：
-![image](https://user-images.githubusercontent.com/43362551/51891576-8142eb80-23da-11e9-84c4-66ffdf971818.png)
+
+<img src='https://user-images.githubusercontent.com/43362551/51891576-8142eb80-23da-11e9-84c4-66ffdf971818.png' width=80% height=80%>
 
 训练时可以定义batch_size的值，是否进行dropout，为了结果的多样性，训练时在softmax输出层每次可以选择topK概率的字符作为输出。训练完成后可以使用tensorboard 对网络结构和训练过程可视化展示。这里推荐用咱们自家建模平台Mo，带有完整的Python和机器学习框架运行环境，并且有免费的GPU可以使用，大家可以自己试试哦。
 
