@@ -2,55 +2,78 @@
 <p align="center" color='blue' class='test'> 第一回合：春 </p>
 
 <p align="center"> 《春晓》孟浩然 </p>
+<div class='poetry'>
 <p align="center">     春眠不觉晓，处处闻啼鸟。 </p>
 <p align="center">     夜来风雨声，花落知多少。 </p>
+</div>
 
 <p align="center"> 《春眠啼鸟》Mo </p>
+<div class='poetry'>
 <p align="center">     春去两三杯， </p>
 <p align="center">     眠宵远樵者。 </p>
 <p align="center">     啼风容发初， </p>
 <p align="center">     鸟雀鸣山色。 </p>
+</div>
+
 
 
 
 <p align="center"> 第二回合：夏 </p>
 <p align="center"> 《晓出净慈寺送林子方》杨万里  </p>
+<div class='poetry'>
 <p align="center">     毕竟西湖六月中，风光不与四时同。 </p>
 <p align="center">     接天莲叶无穷碧，映日荷花别样红。 </p>
+</div>
+
 
 <p align="center"> 《映日荷花》Mo     </p>
+<div class='poetry'>
 <p align="center">     映真林下逢来会， </p>
 <p align="center">     日日宁令物俗情。 </p>
 <p align="center">     荷馆浓香春欲尽， </p>
 <p align="center">     花开花落月明新。 </p>
+</div>
+
 
     
 <p align="center"> 第三回合：秋 </p>
 
 <p align="center"> 《山居秋暝》王维 </p>
+<div class='poetry'>
 <p align="center">     空山新雨后，天气晚来秋。 </p>
 <p align="center">     明月松间照，清泉石上流。 </p>
 <p align="center">     竹喧归浣女，莲动下渔舟。 </p>
 <p align="center">     随意春芳歇，王孙自可留。 </p>
+</div>
+
 
 <p align="center" > 《空山新雨》Mo </p>
+<div class='poetry'>
 <p align="center">     空窗增达趣， </p>
 <p align="center">     山静步萝丛。 </p>
 <p align="center">     新幄寻池上， </p>
 <p align="center">     雨声清夜钟。 </p>
+</div>
+
 
 
 
 <p align="center"> 第四回合：冬 </p>
 <p align="center"> 《江雪》柳宗元  </p>
+<div class='poetry'>
 <p align="center">     千山鸟飞绝，万径人踪灭。 </p>
 <p align="center">     孤舟蓑笠翁，独钓寒江雪。 </p>
+</div>
+
 
 <p align="center"> 《千山江雪》Mo </p>
+<div class='poetry'>
 <p align="center">     千里青台头粉掌， </p>
 <p align="center">     山光青黛落如烟。 </p>
 <p align="center">     江月最烧墙数望， </p>
 <p align="center">     雪中无事不相看。 </p>
+</div>
+
 
 
 怎么样，AI 没有让你失望吧？Mo 写出的诗句不仅和四季相关，还从“对手”的诗句中提取了关键词进行藏头，这波666的操作想不佩服都不难！下面让我们一起来了解 AI 写诗背后的奥秘——深度学习算法。
