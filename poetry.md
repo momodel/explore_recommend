@@ -5,7 +5,7 @@
 
 <div class='textWrap'>
   <div>春眠不觉晓，处处闻啼鸟。 </div>
-  <div>夜来风雨声，花落知多少。 </>
+  <div>夜来风雨声，花落知多少。 </div>
 </div>
 
 
