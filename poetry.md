@@ -1,5 +1,5 @@
 
-<p align="center"> 第一回合：春 </p>
+<p align="center" color='blue' class='test'> 第一回合：春 </p>
 
 <p align="center"> 《春晓》孟浩然 </p>
 <p align="center">     春眠不觉晓，处处闻啼鸟。 </p>
@@ -33,7 +33,7 @@
 <p align="center">     竹喧归浣女，莲动下渔舟。 </p>
 <p align="center">     随意春芳歇，王孙自可留。 </p>
 
-<p align="center"> 《空山新雨》Mo </p>
+<p align="center" > 《空山新雨》Mo </p>
 <p align="center">     空窗增达趣， </p>
 <p align="center">     山静步萝丛。 </p>
 <p align="center">     新幄寻池上， </p>
