@@ -20,8 +20,7 @@
 
 
 
-
-<p align="center"> 第二回合：夏 </p>
+<h3 align="center" color='blue' class='test'> 第二回合：夏 </h3>  
 <p align="center"> 《晓出净慈寺送林子方》杨万里  </p>
 
 <div class='textWrap'>
@@ -41,8 +40,7 @@
 
 
 
-    
-<p align="center"> 第三回合：秋 </p>
+<h3 align="center" color='blue' class='test'> 第三回合：秋 </h3>  
 
 <p align="center"> 《山居秋暝》王维 </p>
 <div class='textWrap'>
@@ -65,8 +63,7 @@
 
 
 
-
-<p align="center"> 第四回合：冬 </p>
+<h3 align="center" color='blue' class='test'> 第四回合：冬 </h3>  
 <p align="center"> 《江雪》柳宗元  </p>
 <div class='textWrap'>
  <div>千山鸟飞绝，万径人踪灭。 </div>
@@ -89,22 +86,26 @@
 
 怎么样，AI 没有让你失望吧？Mo 写出的诗句不仅和四季相关，还从“对手”的诗句中提取了关键词进行藏头，这波666的操作想不佩服都不难！下面让我们一起来了解 AI 写诗背后的奥秘——深度学习算法。
 
-### 深度学习
+<h3 align="center" color='blue' class='test'> 深度学习 </h3> 
+
 深度学习是一类机器学习方法，可实例化为深度学习器，所对应的设计、训练和使用方法集合称为深度学习。深度学习器由若干处理层组成，每层包含至少一个处理单元，每层输出为数据的一种表征，且表征层次随处理层次增加而提高。
 
 深度的定义是相对的。针对某具体场景和学习任务，若学习器的处理单元总数和层数分别为M和N，学习器所保留的信息量或任务性能超过任意层数小于N且单元总数为M的学习器，则该学习器为严格的或狭义的深度学习器，其对应的设计、训练和使用方法集合为严格的或狭义的深度学习。
 
 深度学习听起来高深，落地的应用却可以很浪漫。比如作诗、作曲、人脸美容美妆等都可以实现。下面我们以古诗词生成器为例，一步一步带你从数据处理到模型搭建，再到训练出古诗词生成模型
 
-### LSTM 介绍
+
+<h3 align="center" color='blue' class='test'> LSTM 介绍 </h3> 
+
 像诗词文本这样的数据，文字的前后文存在关联性被称为序列化数据，即前一数据和后一个数据有顺序关系。深度学习中有一个重要的分支是专门用来处理这样的数据的——循环神经网络。循环神经网络广泛应用在自然语言处理领域(NLP)，今天我们带你介绍循环神经网络一个重要的改进算法模型-LSTM。这里不对LSTM的原理进行深入，想要深入理解LSTM的可以戳这里[《[译] 理解 LSTM 网络》](https://www.jianshu.com/p/9dc9f41f0b29)。
 
 
-### 数据处理
+<h3 align="center" color='blue' class='test'> 数据处理 </h3>  
 
 我们使用76748首古诗词作为数据集，数据集[下载链接](http://www.momodel.cn:8899/#/explore/5c00a6e21afd942b66b36ba8?type=dataset)，原始的古诗词的存储形式如下：
 
-<img src='https://user-images.githubusercontent.com/43362551/51824023-221ea180-231c-11e9-8577-6595844d752f.png' width=80% height=80%>
+<div align='center'><img src='https://user-images.githubusercontent.com/43362551/51824023-221ea180-231c-11e9-8577-6595844d752f.png' width=80% height=80%></div>
+
 
 我们可以看到原始的古诗词是文本符号的形式，无法直接进行机器学习，所以我们第一步需要把文本信息转换为数据形式，这种转换方式就叫词嵌入(word embedding)，我们采用一种常用的词嵌套(word embedding)算法-Word2vec对古诗词进行编码。关于Word2Vec这里不详细讲解，有兴趣的可以参考[《[NLP] 秒懂词向量Word2vec的本质》](https://zhuanlan.zhihu.com/p/26306795)。在词嵌套过程中，为了避免最终的分类数过于庞大，可以选择去掉出现频率较小的字，比如可以去掉只出现过一次的字。Word2vec算法经过训练后会产生一个模型文件，我们就可以利用这个模型文件对古诗词文本进行词嵌套编码。
 
@@ -124,8 +125,8 @@
 - poem_ids.txt：按输入输出关系映射处理之后的语料库文件；
 - rhyme_words.txt： 押韵词存储，用于押韵诗的生成；
 
+<h3 align="center" color='blue' class='test'> 模型构建及训练 </h3> 
 
-### 模型构建及训练
 这里我们使用2层的LSTM框架，每层有128个隐藏层节点，我们使用tensorflow.nn模块库来定义网络结构层，其中RNNcell是tensorflow中实现RNN的基本单元，是一个抽象类，在实际应用中多用RNNcell的实现子类BasicRNNCell或者BasicLSTMCell，BasicGRUCell；如果需要构建多层的RNN，在TensorFlow中，可以使用tf.nn.rnn_cell.MultiRNNCell函数对RNNCell进行堆叠。模型网络的第一层要对输入数据进行 embedding，可以理解为数据的维度变换，经过两层LSTM后，接着softMax得到一个在全字典上的输出概率。
 模型网络结构如下：
 
@@ -133,7 +134,9 @@
 
 训练时可以定义batch_size的值，是否进行dropout，为了结果的多样性，训练时在softmax输出层每次可以选择topK概率的字符作为输出。训练完成后可以使用tensorboard 对网络结构和训练过程可视化展示。这里推荐用咱们自家建模平台Mo，带有完整的Python和机器学习框架运行环境，并且有免费的GPU可以使用，大家可以自己试试哦。
 
-### 诗词生成
+
+<h3 align="center" color='blue' class='test'> 诗词生成 </h3> 
+
 调用前面训练好的模型我们就可以实现一个古诗词的应用了，刚刚 Mo 写的诗就是这样生成的：
 <img src='https://ws2.sinaimg.cn/large/006tKfTcly1g0vf6edygjj318a0isdha.jpg' width=80% height=80%>
 <img src='https://ws4.sinaimg.cn/large/006tKfTcly1g0vf7zrbx3j318a0hgjt7.jpg' width=80% height=80%>
