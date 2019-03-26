@@ -36,4 +36,4 @@
 ### 报名方式
 关注微信公众号 **MomodelAI**，回复 **姓名+学校或单位+联系方式** 进行报名，审核通过后会收到确认消息。
 
-![](https://ws1.sinaimg.cn/large/006tKfTcly1g1ey5xjao4j30vq0g4juj.jpg)
+![](https://ws2.sinaimg.cn/large/006tKfTcgy1g1g8uip6c7j30uy0f0tbu.jpg)
