@@ -43,7 +43,26 @@
 ![报名](https://ws4.sinaimg.cn/large/006tKfTcgy1g12863b6byj311w08it99.jpg)
 
 ### 往期回顾
+#### 3.16
+内容：初识机器学习 + 单变量线性回归
 
+视频链接：
+
+http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video（从1-1到2-4）
+
+#### 3.23
+
+内容：【论文分享】DARTS + HCN 网络
+
+请通过微信号添加 hellomnist 领取课件资料
+
+#### 3.30
+
+内容：梯度下降 + 线性代数回顾
+
+视频链接：
+
+http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video（从2-5到3-4）
 ### 报名方式
 关注微信公众号 **MomodelAI**，回复 **姓名+学校或单位+联系方式** 进行报名，审核通过后会收到确认消息。
 
