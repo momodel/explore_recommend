@@ -48,7 +48,8 @@
 
 视频链接：
 
-http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video（从1-1到2-4）
+http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video
+（从1-1到2-4）
 
 #### 3.23
 
@@ -62,7 +63,8 @@ http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=vide
 
 视频链接：
 
-http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video（从2-5到3-4）
+http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video
+（从2-5到3-4）
 ### 报名方式
 关注微信公众号 **MomodelAI**，回复 **姓名+学校或单位+联系方式** 进行报名，审核通过后会收到确认消息。
 
