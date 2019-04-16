@@ -77,7 +77,7 @@ http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=vide
 2. 多变量线性回归
 
 论文资料：
-请通过微信号添加 Hellomnist 领取论文分享课件资料
+请通过微信号添加 Hellomnist 领取论文分享课件资料 
 视频链接：
 http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video（从3-5到4-4）
 
