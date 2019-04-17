@@ -51,7 +51,7 @@
 1. 初识机器学习 
 2. 单变量线性回归
 视频链接：
-http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video（从1-1到2-4）
+http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video （从1-1到2-4）
 
 #### 3.23
 【论文分享】
@@ -64,7 +64,7 @@ http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=vide
 1. 梯度下降 
 2. 线性代数回顾
 视频链接：
-http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video（从2-5到3-4）
+http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video （从2-5到3-4）
 
 #### 4.13
 【论文分享】
@@ -79,7 +79,7 @@ http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=vide
 论文资料：
 请通过微信号添加 Hellomnist 领取论文分享课件资料 
 视频链接：
-http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video（从3-5到4-4）
+http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video （从3-5到4-4）
 
 
 ### 报名方式
