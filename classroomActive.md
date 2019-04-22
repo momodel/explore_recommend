@@ -84,6 +84,7 @@
 * 第二期（3.23）：【论文分享】DARTS + HCN 网络，请通过微信号添加 hellomnist 领取课件资料。
 * 第三期（3.30）：【机器学习】梯度下降 + 线性代数回顾，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（从2-5到3-4）
 * 第四期（4.13）：【论文分享】Google Vizier + Metalearning + Block Federated Learning，请通过微信号添加 hellomnist 领取课件资料。【机器学习】线性代数回顾 + 多变量线性回归，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（从3-5到4-4）
+* 第五期（4.20）：【机器学习】多变量线性回归 + 逻辑回归，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（从4-5到5-5）
 ### 报名方式
 关注微信公众号 MomodelAI，回复 **姓名+学校或单位+联系方式** 进行报名，审核通过后会收到确认消息。或添加管理员微信，进行活动咨询与报名。
 ![](https://ws3.sinaimg.cn/large/006tNc79ly1g2b838mmguj30uy0f0dit.jpg)
