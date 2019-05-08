@@ -41,4 +41,4 @@
 * 第五期（4.20）：【机器学习】多变量线性回归 + 逻辑回归，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（电脑端打开观看视频4-5到5-5）
 * 第六期（4.27）：【论文分享】FastRNN+分布式去中心化优化算法+mobilenet，逻辑回归 + 正则化【机器学习】逻辑回归 + 正则化，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（电脑端打开观看视频5-6到6-3）
 ### [点此报名](https://www.wjx.top/jq/38950903.aspx)
-![](https://ws3.sinaimg.cn/large/006tNc79ly1g2b838mmguj30uy0f0dit.jpg)
+![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1557296098446-1f1b8586-bd60-4292-b627-a751322fa93c.jpeg#align=left&display=inline&height=540&originHeight=540&originWidth=1114&size=0&status=done&width=1114)
