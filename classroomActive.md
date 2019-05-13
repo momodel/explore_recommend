@@ -1,5 +1,5 @@
 # 第八期机器学习开发者沙龙
-**Mo 人工智能俱乐部** 正式向感兴趣的小伙伴们发出诚挚的邀请！**5月18日**（周六），我们将在杭州举办第七期机器学习开发者沙龙。
+**Mo 人工智能俱乐部** 正式向感兴趣的小伙伴们发出诚挚的邀请！**5月18日**（周六），我们将在杭州举办第八期机器学习开发者沙龙。
 
 **时间：5.18 下午 13:00-17:30**
 
@@ -58,5 +58,6 @@
 * 第四期（4.13）：【论文分享】Google Vizier + Metalearning + Block Federated Learning【机器学习】线性代数回顾 + 多变量线性回归，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（电脑端打开观看视频3-5到4-4）
 * 第五期（4.20）：【机器学习】多变量线性回归 + 逻辑回归，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（电脑端打开观看视频4-5到5-5）
 * 第六期（4.27）：【论文分享】FastRNN+分布式去中心化优化算法+mobilenet，逻辑回归 + 正则化【机器学习】逻辑回归 + 正则化，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（电脑端打开观看视频5-6到6-3）
-### [点此报名](https://www.wjx.top/jq/38950903.aspx)
-![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1557296098446-1f1b8586-bd60-4292-b627-a751322fa93c.jpeg#align=left&display=inline&height=540&originHeight=540&originWidth=1114&size=0&status=done&width=1114)
+* 第七期（5.11）：【项目实战】[项目链接](http://www.momodel.cn:8899/classroom/class?id=5c680b311afd943a9f70901b&type=practice)（电脑端打开“模型评价与验证-波士顿房价预测”）
+
+### [点此报名]()
