@@ -58,6 +58,6 @@
 * 第四期（4.13）：【论文分享】Google Vizier + Metalearning + Block Federated Learning【机器学习】线性代数回顾 + 多变量线性回归，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（电脑端打开观看视频3-5到4-4）
 * 第五期（4.20）：【机器学习】多变量线性回归 + 逻辑回归，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（电脑端打开观看视频4-5到5-5）
 * 第六期（4.27）：【论文分享】FastRNN+分布式去中心化优化算法+mobilenet，逻辑回归 + 正则化【机器学习】逻辑回归 + 正则化，[视频链接](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)（电脑端打开观看视频5-6到6-3）
-* 第七期（5.11）：【项目实战】[项目链接](http://www.momodel.cn:8899/classroom/class?id=5c680b311afd943a9f70901b&type=practice)（电脑端打开“模型评价与验证-波士顿房价预测”）
+* 第七期（5.11）：【项目实战】房价预测[项目链接](http://www.momodel.cn:8899/classroom/class?id=5c680b311afd943a9f70901b&type=practice)（电脑端打开“模型评价与验证-波士顿房价预测”进行实战操作）
 
-### [点此报名]()
+### [点此报名](https://www.wjx.top/jq/39404650.aspx)
