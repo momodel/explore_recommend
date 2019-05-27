@@ -2,7 +2,7 @@
 
 **Mo 人工智能俱乐部** 正式向感兴趣的小伙伴们发出诚挚的邀请！**6月1日**（周六），我们将在杭州举办第十期机器学习开发者沙龙。
 
-时间：5.25 下午 14:00-17:00<br />地点：杭州市上城区定安路126号西湖创意谷会议室<br />主办：Mo 人工智能俱乐部
+时间：6.1 下午 13:00-17:30<br />地点：杭州市上城区定安路126号西湖创意谷会议室<br />主办：Mo 人工智能俱乐部
 <a name="zPAUh"></a>
 ### 活动内容
 #### 第一部分
@@ -34,7 +34,7 @@
 #### 第二部分
 **吴恩达机器学习课程**<br />适合人群：针对有一门或多门编程语言基础，对机器学习感兴趣的初学者。<br />形式：团队专题主讲人组织大家一起学习吴恩达的视频教程，边看视频边记笔记，每一节视频后，进行讨论、分享、推导公式以加深理解。
 
-15:30-17:30<br />**主题：**应用机器学习的建议和机器学习系统的设计
+15:30-17:30<br />**主题**：应用机器学习的建议和机器学习系统的设计
 
 - 决定下一步做什么
 - 假设检验
@@ -67,6 +67,7 @@
 <a name="IgWDG"></a>
 ### 往期回顾
 第一期（3.16）：【机器学习】初识机器学习 + 单变量线性回归，[电脑端打开观看视频1-1到2-4](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)<br />第二期（3.23）：【论文分享】DARTS + HCN 网络<br />第三期（3.30）：【机器学习】梯度下降 + 线性代数回顾，[电脑端打开观看视频2-5到3-4](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)<br />第四期（4.13）：【论文分享】Google Vizier + Metalearning + Block Federated Learning【机器学习】线性代数回顾 + 多变量线性回归，[电脑端打开观看视频3-5到4-4](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)<br />第五期（4.20）：【机器学习】多变量线性回归+逻辑回归，[电脑端打开观看视频4-5到5-5](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)<br />第六期（4.27）：【论文分享】FastRNN+分布式去中心化优化算法+mobilenet【机器学习】逻辑回归 + 正则化，[电脑端打开观看视频5-6到6-3](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）<br />第七期（5.11）：【项目实战】房价预测 [项目链接](http://www.momodel.cn:8899/classroom/class?id=5c680b311afd943a9f70901b&type=practice)（电脑端打开“模型评价与验证-波士顿房价预测”进行实战操作）<br />第八期（5.18）：【论文分享】Maximal information coefficent+MAML+EIVHE【机器学习】神经网络学习 [电脑端打开观看视频7-1到7-7](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)
+第九期（5.25）：【机器学习】神经网络参数的反向传播算法 [电脑端打开观看视频8-1到8-8](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)
 
 ### [报名入口](https://www.wjx.top/jq/40257739.aspx)
 ### 关于我们
