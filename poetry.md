@@ -134,9 +134,10 @@
 <h3 align="center" color='blue' class='test'> 诗词生成 </h3> 
 
 调用前面训练好的模型我们就可以实现一个古诗词的应用了，刚刚 Mo 写的诗就是这样生成的：
-<img src='https://ww2.sinaimg.cn/large/006tKfTcly1g0vf6edygjj318a0isdha.jpg' width=80% height=80%>
-<img src='https://ww4.sinaimg.cn/large/006tKfTcly1g0vf7zrbx3j318a0hgjt7.jpg' width=80% height=80%>
-<img src='https://ww4.sinaimg.cn/large/006tKfTcly1g0vf8k3fwgj318e0immyp.jpg' width=80% height=80%>
-<img src='https://ww2.sinaimg.cn/large/006tKfTcly1g0vf8y7ukhj318k0iqwgc.jpg' width=80% height=80%>
+
+<img src='http://imgbed.momodel.cn/20190610105837.png' width=80% height=80%>
+<img src='http://imgbed.momodel.cn/20190610105941.png' width=80% height=80%>
+<img src='http://imgbed.momodel.cn/20190610110054.png' width=80% height=80%>
+<img src='http://imgbed.momodel.cn/20190610110404.png' width=80% height=80%>
 
 
