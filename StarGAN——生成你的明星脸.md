@@ -108,18 +108,3 @@
 ### 5 参考资料
 1.论文：https：[//arxiv.org/pdf/1711.09020.pdf](https://arxiv.org/pdf/1711.09020.pdf) <br />2.博客：https：[//blog.csdn.net/stdcoutzyx/article/details/78829232](https://blog.csdn.net/stdcoutzyx/article/details/78829232)<br />3.博客：https：[//www.cnblogs.com/Thinker-pcw/p/9785379.html](https://www.cnblogs.com/Thinker-pcw/p/9785379.html)<br />4.pytorch原版github地址：https：[//github.com/yunjey/StarGAN](https://github.com/yunjey/StarGAN)<br />5.tensorflow版github地址：https：[//github.com/taki0112/StarGAN-Tensorflow](https://github.com/taki0112/StarGAN-Tensorflow)<br />6.Celeba数据集：[https://www.dropbox.com/s/d1kjpkqklf0uw77/celeba.zip?dl=0](https://www.dropbox.com/s/d1kjpkqklf0uw77/celeba.zip?dl=0)
 
----
-
-**Mo**（网址：**momodel.cn**）是一个支持 Python 的**人工智能在线建模平台**，能帮助你快速开发、训练并部署模型。
-
----
-
-**Mo 人工智能俱乐部** 是由网站的研发与产品设计团队发起、致力于降低人工智能开发与使用门槛的俱乐部。团队具备大数据处理分析、可视化与数据建模经验，已承担多领域智能项目，具备从底层到前端的全线设计开发能力。主要研究方向为大数据管理分析与人工智能技术，并以此来促进数据驱动的科学研究。
-
-目前俱乐部每周六在杭州举办以机器学习为主题的线下技术沙龙活动，不定期进行论文分享与学术交流。希望能汇聚来自各行各业对人工智能感兴趣的朋友，不断交流共同成长，推动人工智能民主化、应用普及化。
-
-![双二维码.png](https://cdn.nlark.com/yuque/0/2019/png/307794/1559194880763-378ee5d1-5cab-4b92-b257-33f4c6d624c1.png?x-oss-process=image/format,png#align=left&display=inline&height=540&name=%E5%8F%8C%E4%BA%8C%E7%BB%B4%E7%A0%81.png&originHeight=540&originWidth=1114&size=2407242&status=done&width=1114)
-<a name="d17a0f0b"></a>
-### 
-<a name="2Zgwc"></a>
-### 
