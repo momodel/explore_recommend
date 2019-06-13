@@ -102,7 +102,7 @@
 
 通过本文学习，您应该初步了解 StarGAN 模型的网络结构和实现原理，以及关键部分代码的初步实现。如果您对深度学习 Tensorflow 比较了解，可以参考 [Tensorflow版实现starGAN](https：//github.com/taki0112/StarGAN-Tensorflow/)；如果您对pytorch框架比较熟悉，可以参考 [pytorch实现starGAN](https：//github.com/yunjey/StarGAN/)；如果您想更深入的学习了解starGAN原理，可以参考 [论文](https：//arxiv.org/pdf/1711.09020.pdf)。
 
-如果想体验项目效果，您可以登陆  [Mo 平台](http://www.momodel.cn:8899/)，在 [应用中心](http：//www.momodel.cn：8899/appcenter) 中找到 [StarGAN](http://www.momodel.cn:8899/appcenter/5c0cc4591afd945c5177fb51)，可以体验以下五种特征['Black_Hair'， 'Blond_Hair'， 'Brown_Hair'， 'Male'， 'Young'] 的风格变换。考虑到代码较长，我们在[StarGAN 项目源码](http://www.momodel.cn:8899/explore/5c0cc4591afd945c5177fb51?type=app)中对相关代码做了详细解释。您在学习的过程中，遇到困难或者发现我们的错误，可以随时联系我们。
+如果想体验项目效果，您可以在 [应用中心](http：//www.momodel.cn：8899/appcenter) 中找到 [StarGAN](http://www.momodel.cn:8899/appcenter/5c0cc4591afd945c5177fb51)，体验以下五种特征['Black_Hair'， 'Blond_Hair'， 'Brown_Hair'， 'Male'， 'Young'] 的风格变换。考虑到代码较长，我们在[StarGAN 项目源码](http://www.momodel.cn:8899/explore/5c0cc4591afd945c5177fb51?type=app)中对相关代码做了详细解释。您在学习的过程中，遇到困难或者发现我们的错误，可以随时联系我们。
 
 <a name="VGhEq"></a>
 ### 5 参考资料
