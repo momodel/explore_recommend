@@ -67,4 +67,4 @@ Mo 人工智能俱乐部是由人工智能在线建模平台（网址：**momode
 
 ![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1557296098446-1f1b8586-bd60-4292-b627-a751322fa93c.jpeg#align=left&display=inline&height=540&originHeight=540&originWidth=1114&size=0&status=done&width=1114)
 
-[报名入口](https://www.wjx.top/jq/41859648.aspx)
+### [报名入口](https://www.wjx.top/jq/41859648.aspx)
