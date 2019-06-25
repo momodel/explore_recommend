@@ -1,6 +1,6 @@
 # 第十三期机器学习开发者沙龙
 
-**Mo 人工智能俱乐部** 正式向感兴趣的小伙伴们发出诚挚的邀请！**6月29日**（周六），我们将在杭州举办第十三期机器学习开发者沙龙。
+**Mo 人工智能俱乐部** 正式向感兴趣的小伙伴们发出诚挚的邀请！**6****月29日**（周六），我们将在杭州举办第十三期机器学习开发者沙龙。
 
 时间：6.29 下午 13:00-17:30<br />地点：杭州市上城区定安路126号西湖创意谷会议室<br />主办：Mo 人工智能俱乐部
 <a name="zPAUh"></a>
@@ -15,23 +15,21 @@
 1. TensorFlow Federated结构
 1. TensorFlow Federated 实例
 1. TensorFlow Federated未来工作
-<a name="gsSIF"></a>
 
-13:50-14:30<br />主讲人：黄小洁<br />主题：U-Net<br />论文：U-Net: Convolutional Networks for Biomedical Image Segmentation
-
-1. U-Net背景知识介绍
-1. U-Net网络结构
-1. U-Net训练方法
-1. 实验与结果
-
-14:40-15:20<br />主讲人：宋彤彤<br />主题：点击率预测<br />论文：Deep Session Interest Network for Click-Through Rate Prediction 
+13:50-14:30<br />主讲人：宋彤彤<br />主题：点击率预测<br />论文：Deep Session Interest Network for Click-Through Rate Prediction 
 
 1. 研究背景
 1. DSIN 模型
 1. 实验与结果
 1. 未来研究方向
 
-#### 
+14:40-15:20<br />主讲人：黄小洁<br />主题：U-Net<br />论文：U-Net: Convolutional Networks for Biomedical Image Segmentation
+
+1. U-Net背景知识介绍
+1. U-Net网络结构
+1. U-Net训练方法
+1. 实验与结果
+
 <a name="r1kh7"></a>
 #### 第二部分
 **吴恩达机器学习课程**<br />适合人群：针对有一门或多门编程语言基础，对机器学习感兴趣的初学者。<br />形式：团队专题主讲人组织大家一起学习吴恩达的视频教程，边看视频边记笔记，每一节视频后，进行讨论、分享、推导公式以加深理解。
@@ -68,4 +66,4 @@ Mo 人工智能俱乐部是由人工智能在线建模平台（网址：**momode
 
 ![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1557296098446-1f1b8586-bd60-4292-b627-a751322fa93c.jpeg#align=left&display=inline&height=540&originHeight=540&originWidth=1114&size=0&status=done&width=1114)
 
-### [报名入口](https://www.wjx.top/jq/41859648.aspx)
+[报名入口](https://www.wjx.top/jq/41859648.aspx)
