@@ -9,27 +9,27 @@
 #### 第一部分
 **机器学习相关论文分享**<br />适合人群：针对有机器学习基础，想了解业内动向和研究成果的学者或算法工程师。<br />形式：由 Mo 团队人工智能算法工程师和浙江大学计算机系硕士研究生为大家解读主题相关论文。
 
-13:00-13:40<br />主讲人：黄小洁<br />主题：U-Net<br />论文：U-Net: Convolutional Networks for Biomedical Image Segmentation
-
-1. U-Net背景知识介绍
-1. U-Net网络结构
-1. U-Net训练方法
-1. 实验与结果
-
-13:50-14:30<br />主讲人：宋彤彤<br />主题：点击率预测<br />论文：Deep Session Interest Network for Click-Through Rate Prediction 
-
-1. 研究背景
-1. DSIN 模型
-1. 实验与结果
-1. 未来研究方向
-
-14:40-15:20<br />主讲人：刘丽锋<br />主题：TensorFlow Federated 库使用<br />论文：TensorFlow Federated
+13:00-13:40<br />主讲人：刘丽锋<br />主题：TensorFlow Federated 库使用<br />论文：TensorFlow Federated
 
 1. 相关背景知识 Federated algorithm
 1. TensorFlow Federated结构
 1. TensorFlow Federated 实例
 1. TensorFlow Federated未来工作
 <a name="gsSIF"></a>
+13:50-14:30<br />主讲人：黄小洁<br />主题：U-Net<br />论文：U-Net: Convolutional Networks for Biomedical Image Segmentation
+
+1. U-Net背景知识介绍
+1. U-Net网络结构
+1. U-Net训练方法
+1. 实验与结果
+
+14:40-15:20<br />主讲人：宋彤彤<br />主题：点击率预测<br />论文：Deep Session Interest Network for Click-Through Rate Prediction 
+
+1. 研究背景
+1. DSIN 模型
+1. 实验与结果
+1. 未来研究方向
+
 #### 
 <a name="r1kh7"></a>
 #### 第二部分
