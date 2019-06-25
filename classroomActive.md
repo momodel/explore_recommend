@@ -16,6 +16,7 @@
 1. TensorFlow Federated 实例
 1. TensorFlow Federated未来工作
 <a name="gsSIF"></a>
+
 13:50-14:30<br />主讲人：黄小洁<br />主题：U-Net<br />论文：U-Net: Convolutional Networks for Biomedical Image Segmentation
 
 1. U-Net背景知识介绍
