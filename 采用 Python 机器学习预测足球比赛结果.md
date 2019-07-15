@@ -1333,8 +1333,7 @@ HTGD      ATGD  HM1_D  HM1_L  HM1_W  AM1_D  AM1_L  AM1_W  HM2_D  \
 - 4、分析参赛球员的踢球技术信息和健康信息等；
 - 5、采用更全面的模型评估机制，目前我们仅仅考虑了准确率和 F1 分数，可以进一步考虑 **ROC** 和 **AUC** 曲线等。
 
-我们已经将以上内容整理成机器学习实战相关课程，您可以在网站 **[训练营实战教程](https://momodel.cn/classroom/class?id=5c680b311afd943a9f70901b&type=practice)**
-
+我们已经将以上内容整理成机器学习实战相关课程，您可以在网站 **[训练营实战教程](https://momodel.cn/classroom/class?id=5c680b311afd943a9f70901b&type=practice)** 中选择**监督学习-分析和预测足球比赛结果**进行尝试。
 
 **Mo**（网址：**momodel.cn**）是一个支持 Python 的**人工智能在线建模平台**，能帮助你快速开发、训练并部署模型。
 
