@@ -59,8 +59,6 @@
 | 17 | 7.27 | 【论文分享】LocoaNet 网络；中文文本生成；联邦学习<br />【机器学习】推荐系统 | LocoaNet 网络：<br />https://momodel.cn/live/5d3ab0ac1afd9443b584dd84 <br />中文文本生成：<br />[https://momodel.cn/live/5d3af46a1afd94425f2c7f23](https://momodel.cn/live/5d3af46a1afd94425f2c7f23)<br />联邦学习：<br />[https://momodel.cn/live/5d3aea181afd944437eaf44b](https://momodel.cn/live/5d3aea181afd944437eaf44b)<br />推荐系统：<br />[https://momodel.cn/live/5d3859ad1afd94479ffa37d8](https://momodel.cn/live/5d3859ad1afd94479ffa37d8)<br />（电脑端打开链接，点击“进入课程”，点击“回放”按钮观看回放） |
 | 18 | 8.3 | 【机器学习】大规模机器学习；应用举例：照片OCR（光学字符识别） | [https://momodel.cn/live/5d3fd87e1afd9432011487b2](https://momodel.cn/live/5d3fd87e1afd9432011487b2)<br />（电脑端打开链接，点击“进入课程”，点击“回放”按钮观看回放） |
 
-<a name="8JG2d"></a>
-### 
 <a name="1uDCP"></a>
 ### 关于我们
 Mo 人工智能俱乐部是由人工智能在线建模平台（网址：[momodel.cn](http://www.momodel.cn:8899/)）的研发与产品设计团队发起、致力于降低人工智能开发与使用门槛的俱乐部。团队具备大数据处理分析、可视化与数据建模经验，已承担多领域智能项目，具备从底层到前端的全线设计开发能力。主要研究方向为大数据管理分析与人工智能技术，并以此来促进数据驱动的科学研究。
