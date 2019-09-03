@@ -1,31 +1,32 @@
-# 第十九期机器学习开发者沙龙
+# 第 21 期机器学习开发者沙龙
 
-**Mo 人工智能俱乐部** 正式向感兴趣的小伙伴们发出诚挚的邀请！**8月11日**（星期天），我们将在杭州举办第十九期机器学习开发者沙龙。
+Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！9月7日（周六），我们将在杭州举办第 21 期机器学习开发者沙龙。
 
-时间：8.11 下午 14:00-16:20<br />地点：杭州市上城区定安路126号西湖创意谷会议室<br />主办：Mo 人工智能俱乐部
+时间：9月7日 下午 14:00-16:20<br />地点：杭州市上城区定安路126号西湖创意谷会议室<br />主办：Mo 人工智能俱乐部
 <a name="zPAUh"></a>
 ### 活动内容
 机器学习相关论文分享<br />适合人群：针对有机器学习基础，想了解业内动向和研究成果的学者或算法工程师。<br />形式：由 Mo 团队人工智能算法工程师和浙江大学计算机系硕士研究生为大家解读主题相关论文。
 
-14:00-14:40<br />分享人：魏祖昌<br />主题：交通量预测——极端情况下的预测算法<br />论文: Deep and Confident Prediction for Time Series at Uber
+14:00-14:40<br />分享人：王丹妮<br />主题：机器学习算法的预测价值<br />论文：Machine learning approaches to studying the role of cognitive reserve in conversion from  mild cognitive impairment to dementia
 
-1. 相关背景知识
-1. Uber的BNN预测模型
-1. 实验与总结
+1. 研究背景
+1. 实验方法（机器学习算法分析）
+1. 实验结果
+1. 结论
 
-14:50-15:30<br />分享人：沈弢<br />主题：Lookahead 最优化方法<br />论文：Lookahead Optimizer: k steps forward, 1 step back
-
-1. 相关背景知识
-1. 最优化方法介绍
-1. Lookahead最优化方法介绍
-1. 分析与探讨
-
-15:40-16:20<br />分享人：梅昊铭<br />主题：场景文本识别<br />论文：An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition
+14:50-15:30<br />分享人：崔粲<br />主题：深度强化学习在机械臂接触操纵任务中的应用<br />论文：Making Sense of Vision and Touch: Self-Supervised Learning of Multimodal Representations for Contact-Rich Tasks
 
 1. 背景介绍
-1. 网络结构
-1. 实验
-1. 结论
+1. 控制系统结构设计
+1. 多模态表征学习模型架构
+1. 实验与算法性能表现
+1. 总结
+
+15:40-16:20<br />分享人：陈东瑞<br />主题：基于耦合网络的推荐系统<br />论文：Information Filtering via Biased Random Walk on Coupled Social Network
+
+1. 复杂网络基础介绍
+1. 耦合网络上的随机游走模型
+1. 实验与总结
 
 <a name="nkptV"></a>
 ### 活动亮点
@@ -34,7 +35,7 @@
 ### 活动须知
 本系列活动完全免费，我们为你提供学习资料、地点与实操平台，只要有兴趣都可以报名参加。<br />注意事项：为了更方便进行实践操作，请携带笔记本电脑，现场有老师一对一进行答疑指导。
 
-[报名入口](https://www.wjx.top/jq/43742837.aspx)
+[报名入口](https://www.wjx.top/jq/45161678.aspx)
 
 <a name="jdNNk"></a>
 ### 机器学习沙龙回顾
@@ -58,12 +59,16 @@
 | 16 | 7.20 | 【机器学习】异常检测 | 吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（电脑端打开观看视频14-1到14-8） |
 | 17 | 7.27 | 【论文分享】LocoaNet 网络；中文文本生成；联邦学习<br />【机器学习】推荐系统 | LocoaNet 网络：<br />https://momodel.cn/live/5d3ab0ac1afd9443b584dd84 <br />中文文本生成：<br />[https://momodel.cn/live/5d3af46a1afd94425f2c7f23](https://momodel.cn/live/5d3af46a1afd94425f2c7f23)<br />联邦学习：<br />[https://momodel.cn/live/5d3aea181afd944437eaf44b](https://momodel.cn/live/5d3aea181afd944437eaf44b)<br />推荐系统：<br />[https://momodel.cn/live/5d3859ad1afd94479ffa37d8](https://momodel.cn/live/5d3859ad1afd94479ffa37d8)<br />（电脑端打开链接，点击“进入课程”，点击“回放”按钮观看回放） |
 | 18 | 8.3 | 【机器学习】大规模机器学习；应用举例：照片OCR（光学字符识别） | [https://momodel.cn/live/5d3fd87e1afd9432011487b2](https://momodel.cn/live/5d3fd87e1afd9432011487b2)<br />（电脑端打开链接，点击“进入课程”，点击“回放”按钮观看回放） |
+| 19 | 8.10 | 【论文分享】交通量预测;Lookahead 最优化方法;场景文本识别 | 交通量预测:<br />[https://momodel.cn/live/5d4b96981afd943042ef1603](https://momodel.cn/live/5d4b96981afd943042ef1603)<br />Lookahead 最优化方法:<br />[https://momodel.cn/live/5d4cd97c1afd943060d021aa](https://momodel.cn/live/5d4cd97c1afd943060d021aa)<br />场景文本识别:<br />[https://momodel.cn/live/5d4bec421afd9430a4627a77](https://momodel.cn/live/5d4bec421afd9430a4627a77)<br />（电脑端打开链接，点击“进入课程”，点击“回放”按钮观看回放） |
+| 20 | 8.24 | 【论文分享】做梦神经网络；联邦学习；Seq2Seq模型中的Attention机制 | 做梦神经网络：[https://momodel.cn/live/5d6064a81afd9432607db06c](https://momodel.cn/live/5d6064a81afd9432607db06c)<br />联邦学习：<br />[https://momodel.cn/live/5d600a151afd9432607db053](https://momodel.cn/live/5d600a151afd9432607db053)<br />Seq2Seq模型中的Attention机制：<br />[https://momodel.cn/live/5d5ffc891afd94183b29fc9a](https://momodel.cn/live/5d5ffc891afd94183b29fc9a) |
 
+<a name="8JG2d"></a>
+### 
 <a name="1uDCP"></a>
 ### 关于我们
 Mo 人工智能俱乐部是由人工智能在线建模平台（网址：[momodel.cn](http://www.momodel.cn:8899/)）的研发与产品设计团队发起、致力于降低人工智能开发与使用门槛的俱乐部。团队具备大数据处理分析、可视化与数据建模经验，已承担多领域智能项目，具备从底层到前端的全线设计开发能力。主要研究方向为大数据管理分析与人工智能技术，并以此来促进数据驱动的科学研究。
 
-目前团队每周六在杭州举办以机器学习为主题的线下技术沙龙活动，不定期进行论文分享与学术交流。希望能汇聚来自各行各业对人工智能感兴趣的朋友，不断交流共同成长，推动人工智能民主化、应用普及化。
+目前团队每两周（周六）在杭州举办线下沙龙，进行机器学习相关论文分享与学术交流。希望能汇聚来自各行各业对人工智能感兴趣的朋友，不断交流共同成长，推动人工智能民主化、应用普及化。
 
 ![](https://cdn.nlark.com/yuque/0/2019/jpeg/307794/1557296098446-1f1b8586-bd60-4292-b627-a751322fa93c.jpeg#align=left&display=inline&height=540&originHeight=540&originWidth=1114&size=0&status=done&width=1114)
 
