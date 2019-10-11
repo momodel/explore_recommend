@@ -1,31 +1,41 @@
-# 第 22 期机器学习开发者沙龙
+# 第 23 期机器学习开发者沙龙
 
-Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！9月21日（周六），我们将在杭州举办第 22 期机器学习开发者沙龙。
+Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！10月19日（周六），我们将在杭州举办第 23 期机器学习开发者沙龙。
 
-时间：9月21日 下午 14:00-16:20<br />地点：杭州市上城区定安路126号西湖创意谷会议室<br />主办：Mo 人工智能俱乐部
+时间：10月19日 下午 14:00-16:20<br />
+地点：杭州市上城区定安路126号西湖创意谷会议室<br />
+主办：Mo 人工智能俱乐部
 <a name="zPAUh"></a>
 ### 活动内容
-机器学习相关论文分享<br />适合人群：针对有机器学习基础，想了解业内动向和研究成果的学者或算法工程师。<br />形式：由 Mo 团队人工智能算法工程师和浙江大学计算机系硕士研究生为大家解读主题相关论文。
+机器学习相关论文分享<br />
+适合人群：针对有机器学习基础，想了解业内动向和研究成果的学者或算法工程师。<br />
+形式：由 Mo 团队人工智能算法工程师和浙江大学计算机系硕士研究生为大家解读主题相关论文。
 
-14:00-14:40<br />分享人：郑培<br />主题：动态时间规整算法<br />论文：Derivative Dynamic Time Warping
+14:00-14:40 <br />
+分享人：朱疆成博士（华为）  <br />
+主题：深度强化学习路在何方  <br />
+参考文章：《深度强化学习路在何方》《Deep Reinforcement Learning Doesn't Work Yet》 
+
+1. DRL的缺陷
+2. 落地的难点
+3. 未来可能的方向
+
+14:50-15:30<br />
+分享人：游兆阳（浙大）<br />
+主题：无数据的蒸馏学习<br />
+论文：Data-Free Learning of Student Networks
 
 1. 背景介绍
-1. 经典DTW算法及其缺陷
-1. DDTW算法介绍
-1. 实验与总结
+2. 经典蒸馏算法及其缺陷
+3. DAFL算法介绍
+4. 实验与总结
 
-14:50-15:30<br />分享人：李则熹<br />主题：混合联邦蒸馏<br />论文：Wireless Federated Distillation for Distributed Edge
+15:40-16:20<br />
+分享人：雷炳杰（Mo）<br />
+主题：待定<br />
+论文：待定
 
-1. 背景介绍
-1. 混合联邦蒸馏（HFD）的基本思路
-1. 实验与结果
-1. 总结
 
-15:40-16:20<br />分享人：沈弢<br />主题：深度协作学习<br />论文：Knowledge Transfer Graph for Deep Collaborative Learning
-
-1. 相关背景知识
-1. DCL方法介绍
-1. 分析与探讨
 
 <a name="nkptV"></a>
 ### 活动亮点
@@ -34,7 +44,7 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请
 ### 活动须知
 本系列活动完全免费，我们为你提供学习资料、地点与实操平台，只要有兴趣都可以报名参加。<br />注意事项：为了更方便进行实践操作，请携带笔记本电脑，现场有老师一对一进行答疑指导。
 
-[报名入口](https://www.wjx.top/jq/45817320.aspx)
+[报名入口](https://www.wjx.top/jq/46327584.aspx)
 
 <a name="jdNNk"></a>
 ### 机器学习沙龙回顾
@@ -65,7 +75,7 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请
 | 19 | 8.10 | 【论文分享】交通量预测;Lookahead 最优化方法;场景文本识别 | 交通量预测:<br />[https://momodel.cn/live/5d4b96981afd943042ef1603](https://momodel.cn/live/5d4b96981afd943042ef1603)<br />Lookahead 最优化方法:<br />[https://momodel.cn/live/5d4cd97c1afd943060d021aa](https://momodel.cn/live/5d4cd97c1afd943060d021aa)<br />场景文本识别:<br />[https://momodel.cn/live/5d4bec421afd9430a4627a77](https://momodel.cn/live/5d4bec421afd9430a4627a77)<br />（电脑端打开链接，点击“进入课程”，点击“回放”按钮观看回放） |
 | 20 | 8.24 | 【论文分享】做梦神经网络；联邦学习；Seq2Seq模型中的Attention机制 | 做梦神经网络：[https://momodel.cn/live/5d6064a81afd9432607db06c](https://momodel.cn/live/5d6064a81afd9432607db06c)<br />联邦学习：<br />[https://momodel.cn/live/5d600a151afd9432607db053](https://momodel.cn/live/5d600a151afd9432607db053)<br />Seq2Seq模型中的Attention机制：<br />[https://momodel.cn/live/5d5ffc891afd94183b29fc9a](https://momodel.cn/live/5d5ffc891afd94183b29fc9a) |
 | 21 | 9.7 | 【论文分享】机器学习算法的预测价值；深度强化学习在机械臂接触操纵任务中的应用；基于耦合网络的推荐系统 | 直播回放：<br />[https://v.douyu.com/show/yVmjvBZldzrvqkNb](https://v.douyu.com/show/yVmjvBZldzrvqkNb) |
-
+| 22 | 9.21 | 【论文分享】动态时间规整算法；混合联邦蒸馏；深度协作学习 | 动态时间规整：https://momodel.cn/live/5d858c582e62cf2ca9c22088 <br /> 混合联邦蒸馏：https://momodel.cn/live/5d858bf5e4ed67738f25516b <br />深度协作学习:  https://momodel.cn/live/5d85be2df7ab16cba041dba3 |
 <a name="8JG2d"></a>
 ### 
 <a name="1uDCP"></a>
