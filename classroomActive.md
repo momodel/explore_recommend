@@ -1,31 +1,43 @@
-# 第 22 期机器学习开发者沙龙
+# 第 23 期机器学习开发者沙龙
 
-Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！9月21日（周六），我们将在杭州举办第 22 期机器学习开发者沙龙。
+Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！10月19日（周六），我们将在杭州举办第 23 期机器学习开发者沙龙。
 
-时间：9月21日 下午 14:00-16:20<br />地点：杭州市上城区定安路126号西湖创意谷会议室<br />主办：Mo 人工智能俱乐部
+时间：10月19日 下午 14:00-16:20<br />
+地点：杭州市上城区定安路126号西湖创意谷会议室<br />
+主办：Mo 人工智能俱乐部
 <a name="zPAUh"></a>
 ### 活动内容
-机器学习相关论文分享<br />适合人群：针对有机器学习基础，想了解业内动向和研究成果的学者或算法工程师。<br />形式：由 Mo 团队人工智能算法工程师和浙江大学计算机系硕士研究生为大家解读主题相关论文。
+机器学习相关论文分享<br />
+适合人群：针对有机器学习基础，想了解业内动向和研究成果的学者或算法工程师。<br />
+形式：由 Mo 团队人工智能算法工程师和浙江大学计算机系硕士研究生为大家解读主题相关论文。
 
-14:00-14:40<br />分享人：郑培<br />主题：动态时间规整算法<br />论文：Derivative Dynamic Time Warping
+14:00-14:40<br />
+分享人：朱疆成博士<br />
+主题：深度强化学习路在何方<br />
+参考文章：《深度强化学习路在何方》《Deep Reinforcement Learning Doesn't Work Yet》
+
+1. DRL的缺陷
+2. 落地的难点
+3. 未来可能的方向
+
+14:50-15:30<br />
+分享人：游兆阳<br />
+主题：无数据的蒸馏学习<br />
+论文：Data-Free Learning of Student Networks
 
 1. 背景介绍
-1. 经典DTW算法及其缺陷
-1. DDTW算法介绍
-1. 实验与总结
+2. 经典蒸馏算法及其缺陷
+3. DAFL算法介绍
+4. 实验与总结
 
-14:50-15:30<br />分享人：李则熹<br />主题：混合联邦蒸馏<br />论文：Wireless Federated Distillation for Distributed Edge
+15:40-16:20<br />
+分享人：雷炳杰<br />
+主题：蒙特卡洛树搜索(MCTS)算法<br />
+论文：A Survey of Monte Carlo Tree Search Methods
 
-1. 背景介绍
-1. 混合联邦蒸馏（HFD）的基本思路
-1. 实验与结果
-1. 总结
-
-15:40-16:20<br />分享人：沈弢<br />主题：深度协作学习<br />论文：Knowledge Transfer Graph for Deep Collaborative Learning
-
-1. 相关背景知识
-1. DCL方法介绍
-1. 分析与探讨
+1. 介绍相关背景知识
+2. 介绍蒙特卡洛树搜索(MCTS)算法
+3. MCTS 算法实现
 
 <a name="nkptV"></a>
 ### 活动亮点
@@ -34,7 +46,7 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请
 ### 活动须知
 本系列活动完全免费，我们为你提供学习资料、地点与实操平台，只要有兴趣都可以报名参加。<br />注意事项：为了更方便进行实践操作，请携带笔记本电脑，现场有老师一对一进行答疑指导。
 
-[报名入口](https://www.wjx.top/jq/45817320.aspx)
+[报名入口](https://www.wjx.top/jq/46327584.aspx)
 
 <a name="jdNNk"></a>
 ### 机器学习沙龙回顾
@@ -45,16 +57,12 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请
 | 3 | 3.30 | 【机器学习】梯度下降；线性代数回顾 | 吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)[（]()[]()[电脑端打开观看视频2-5到3-4](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)） |
 | 4 | 4.13 | 【论文分享】Google Vizier；Metalearning；Block Federated Learning<br />【机器学习】线性代数回顾 + 多变量线性回归 | 论文分享资料：https://github.com/momodel/AIClub<br />吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频3-5到4-4](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)） |
 | 5 | 4.20 | 【机器学习】多变量线性回归+逻辑回归 | 吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频4-5到5-5](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）<br />课程直播链接：<br />[https://v.douyu.com/show/6Aw87OpDLojMYGkg](https://v.douyu.com/show/6Aw87OpDLojMYGkg) |
-| 6 | 4.27 | 【论文分享】FastRNN+分布式去中心化优化算法+mobilenet<br />【机器学习】逻辑回归 + 正则化 | 论文分享资料：https://github.com/momodel/AIClub 
-吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频5-6到6-3](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）<br />课程直播链接：<br />[https://v.douyu.com/show/ZB5Kv9LlrJKWa93x](https://v.douyu.com/show/ZB5Kv9LlrJKWa93x) |
+| 6 | 4.27 | 【论文分享】FastRNN+分布式去中心化优化算法+mobilenet<br />【机器学习】逻辑回归 + 正则化 | 论文分享资料：https://github.com/momodel/AIClub <br />吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频5-6到6-3](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）<br />课程直播链接：<br />[https://v.douyu.com/show/ZB5Kv9LlrJKWa93x](https://v.douyu.com/show/ZB5Kv9LlrJKWa93x) |
 | 7 | 5.11 | 【项目实战】房价预测[](http://www.momodel.cn:8899/classroom/class?id=5c680b311afd943a9f70901b&type=practice) | 实战项目链接：[https://momodel.cn/classroom/class?id=5c680b311afd943a9f70901b&type=practice](https://momodel.cn/classroom/class?id=5c680b311afd943a9f70901b&type=practice)（电脑端打开“模型评价与验证-波士顿房价预测”进行实战操作） |
-| 8 | 5.18 | 【论文分享】Maximal information coefficent+MAML+EIVHE<br />【机器学习】神经网络学习 | 论文分享资料：https://github.com/momodel/AIClub
-吴恩达机器学习：[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频7-1到7-7](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）课程直播链接：<br />[https://v.douyu.com/show/ZB5Kv9LjRGbWa93x](https://v.douyu.com/show/ZB5Kv9LjRGbWa93x) |
+| 8 | 5.18 | 【论文分享】Maximal information coefficent+MAML+EIVHE<br />【机器学习】神经网络学习 | 论文分享资料：https://github.com/momodel/AIClub <br />吴恩达机器学习：[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频7-1到7-7](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）课程直播链接：<br />[https://v.douyu.com/show/ZB5Kv9LjRGbWa93x](https://v.douyu.com/show/ZB5Kv9LjRGbWa93x) |
 | 9 | 5.25 | 【机器学习】神经网络参数的反向传播算法  | 吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频8-1到8-8](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)） |
-| 10 | 6.1 | 【论文分享】神经网络剪枝技术；Road Monitor；蒙特卡罗方法<br />【机器学习】应用机器学习的建议和机器学习系统的设计 | 论文分享资料：https://github.com/momodel/AIClub
-吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频9-1到9-7](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）<br />课程直播链接：[https://v.douyu.com/show/2Bj8vG5V0jQMObnd](https://v.douyu.com/show/2Bj8vG5V0jQMObnd)<br /> |
-| 11 | 6.15 | 【论文分享】ArcFace+博弈论+AlexNet<br />【机器学习】机器学习系统设计 | 论文分享资料：https://github.com/momodel/AIClub
-吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频10-1到10-5](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）<br />课程直播链接：<br />[https://v.douyu.com/show/DrwnvzANa80WPNaX](https://v.douyu.com/show/DrwnvzANa80WPNaX) |
+| 10 | 6.1 | 【论文分享】神经网络剪枝技术；Road Monitor；蒙特卡罗方法<br />【机器学习】应用机器学习的建议和机器学习系统的设计 | 论文分享资料：https://github.com/momodel/AIClub <br /> 吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频9-1到9-7](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）<br />课程直播链接：[https://v.douyu.com/show/2Bj8vG5V0jQMObnd](https://v.douyu.com/show/2Bj8vG5V0jQMObnd)<br /> |
+| 11 | 6.15 | 【论文分享】ArcFace+博弈论+AlexNet<br />【机器学习】机器学习系统设计 | 论文分享资料：https://github.com/momodel/AIClub<br />吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频10-1到10-5](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）<br />课程直播链接：<br />[https://v.douyu.com/show/DrwnvzANa80WPNaX](https://v.douyu.com/show/DrwnvzANa80WPNaX) |
 | 12 | 6.22 | 【机器学习】支持向量机 | 吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频11-1到11-6](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）<br />课程直播链接：<br />[https://v.douyu.com/show/Qyz171Qawg57BJj9](https://v.douyu.com/show/Qyz171Qawg57BJj9) |
 | 13 | 6.29 | 【论文分享】TensorFlow Federated 库使用；点击率预测；U-Net<br />【机器学习】无监督学习 | 论文分享资料：https://github.com/momodel/AIClub<br />吴恩达机器学习：<br />[https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video](https://momodel.cn/classroom/class?id=5c5696191afd94720cc94533&type=video)（[电脑端打开观看视频12-1到12-5](http://www.momodel.cn:8899/classroom/class?id=5c5696191afd94720cc94533&type=video)）<br />课程直播链接：<br />[https://v.douyu.com/show/4xq3WDXPBjbWLGNz](https://v.douyu.com/show/4xq3WDXPBjbWLGNz) |
 | 14 | 7.6 | 【项目实战】非监督学习—创建客户群 [](http://www.momodel.cn:8899/classroom/class?id=5c680b311afd943a9f70901b&type=practice) | 实战项目链接：[https://momodel.cn/classroom/class?id=5c680b311afd943a9f70901b&type=practice](https://momodel.cn/classroom/class?id=5c680b311afd943a9f70901b&type=practice)（电脑端打开“非监督学习—创建客户群”进行实战操作）<br />课程直播链接：[https://v.douyu.com/show/n8GzMXwZ4zg76qyP](https://v.douyu.com/show/n8GzMXwZ4zg76qyP) |
@@ -65,8 +73,8 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请
 | 19 | 8.10 | 【论文分享】交通量预测;Lookahead 最优化方法;场景文本识别 | 交通量预测:<br />[https://momodel.cn/live/5d4b96981afd943042ef1603](https://momodel.cn/live/5d4b96981afd943042ef1603)<br />Lookahead 最优化方法:<br />[https://momodel.cn/live/5d4cd97c1afd943060d021aa](https://momodel.cn/live/5d4cd97c1afd943060d021aa)<br />场景文本识别:<br />[https://momodel.cn/live/5d4bec421afd9430a4627a77](https://momodel.cn/live/5d4bec421afd9430a4627a77)<br />（电脑端打开链接，点击“进入课程”，点击“回放”按钮观看回放） |
 | 20 | 8.24 | 【论文分享】做梦神经网络；联邦学习；Seq2Seq模型中的Attention机制 | 做梦神经网络：[https://momodel.cn/live/5d6064a81afd9432607db06c](https://momodel.cn/live/5d6064a81afd9432607db06c)<br />联邦学习：<br />[https://momodel.cn/live/5d600a151afd9432607db053](https://momodel.cn/live/5d600a151afd9432607db053)<br />Seq2Seq模型中的Attention机制：<br />[https://momodel.cn/live/5d5ffc891afd94183b29fc9a](https://momodel.cn/live/5d5ffc891afd94183b29fc9a) |
 | 21 | 9.7 | 【论文分享】机器学习算法的预测价值；深度强化学习在机械臂接触操纵任务中的应用；基于耦合网络的推荐系统 | 直播回放：<br />[https://v.douyu.com/show/yVmjvBZldzrvqkNb](https://v.douyu.com/show/yVmjvBZldzrvqkNb) |
-
-<a name="8JG2d"></a>
+| 22 | 9.21 | 【论文分享】动态时间规整算法；混合联邦蒸馏；深度协作学习 | 动态时间规整：https://momodel.cn/live/5d858c582e62cf2ca9c22088 <br />  混合联邦蒸馏：https://momodel.cn/live/5d858bf5e4ed67738f25516b <br />深度协作学习:  https://momodel.cn/live/5d85be2df7ab16cba041dba3 |
+ <a name="8JG2d"></a>
 ### 
 <a name="1uDCP"></a>
 ### 关于我们
