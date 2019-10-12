@@ -74,9 +74,7 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请�
 | 20 | 8.24 | 【论文分享】做梦神经网络；联邦学习；Seq2Seq模型中的Attention机制 | 做梦神经网络：[https://momodel.cn/live/5d6064a81afd9432607db06c](https://momodel.cn/live/5d6064a81afd9432607db06c)<br />联邦学习：<br />[https://momodel.cn/live/5d600a151afd9432607db053](https://momodel.cn/live/5d600a151afd9432607db053)<br />Seq2Seq模型中的Attention机制：<br />[https://momodel.cn/live/5d5ffc891afd94183b29fc9a](https://momodel.cn/live/5d5ffc891afd94183b29fc9a) |
 | 21 | 9.7 | 【论文分享】机器学习算法的预测价值；深度强化学习在机械臂接触操纵任务中的应用；基于耦合网络的推荐系统 | 直播回放：<br />[https://v.douyu.com/show/yVmjvBZldzrvqkNb](https://v.douyu.com/show/yVmjvBZldzrvqkNb) |
 | 22 | 9.21 | 【论文分享】动态时间规整算法；混合联邦蒸馏；深度协作学习 | 动态时间规整：https://momodel.cn/live/5d858c582e62cf2ca9c22088 <br />  混合联邦蒸馏：https://momodel.cn/live/5d858bf5e4ed67738f25516b <br />深度协作学习:  https://momodel.cn/live/5d85be2df7ab16cba041dba3 |
- <a name="8JG2d"></a>
-### 
-<a name="1uDCP"></a>
+
 ### 关于我们
 Mo 人工智能俱乐部是由人工智能在线建模平台（网址：[https://momodel.cn](https://momodel.cn/)）的研发与产品设计团队发起、致力于降低人工智能开发与使用门槛的俱乐部。团队具备大数据处理分析、可视化与数据建模经验，已承担多领域智能项目，具备从底层到前端的全线设计开发能力。主要研究方向为大数据管理分析与人工智能技术，并以此来促进数据驱动的科学研究。
 
