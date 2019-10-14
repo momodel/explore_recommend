@@ -79,7 +79,8 @@ CycleGan 可实现图像风格转换，但它不同于 neural style transfer 模
 ## 总结
 对于 Unpaired 问题来说，只是用普通 GAN 的话可以学到的模型有很多种。种类数目为领域$X$和领域$Y$之间的随机映射数目，所以只是用普通 GAN 损失函数无法保证输入$x$能够得到对应领域的$y$。而 Cycle 一致性的出现，降低了随机映射的数目，从而保证得到的输出不再是随机的，因此能够实现图片从一个领域到另一个领域的转换。
 
-## 项目源码地址：https://momodel.cn/explore/5d76cd483ca4fc49fa06f9e1?type=app 
+## 项目源码地址：
+https://momodel.cn/explore/5d76cd483ca4fc49fa06f9e1?type=app 
 
 ## 参考文献
 + Generative Adversarial Networks，Ian J. Goodfellow, etc. https://arxiv.org/abs/1406.2661
