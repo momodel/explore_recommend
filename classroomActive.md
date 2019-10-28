@@ -1,8 +1,8 @@
-# 第 23 期机器学习开发者沙龙
+# 第 24 期机器学习开发者沙龙
 
-Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！10月19日（周六），我们将在杭州举办第 23 期机器学习开发者沙龙。
+Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！11月2日（周六），我们将在杭州举办第 24 期机器学习开发者沙龙。
 
-时间：10月19日 下午 14:00-16:20<br />
+时间：11月2日 下午 14:00-16:20<br />
 地点：杭州市上城区定安路126号西湖创意谷会议室<br />
 主办：Mo 人工智能俱乐部
 <a name="zPAUh"></a>
@@ -11,33 +11,43 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请�
 适合人群：针对有机器学习基础，想了解业内动向和研究成果的学者或算法工程师。<br />
 形式：由 Mo 团队人工智能算法工程师和浙江大学计算机系硕士研究生为大家解读主题相关论文。
 
-14:00-14:40<br />
-分享人：朱疆成博士<br />
-主题：深度强化学习路在何方<br />
-参考文章：《深度强化学习路在何方》《Deep Reinforcement Learning Doesn't Work Yet》
+本次分享会为联邦学习专题，通过聚焦最新顶会NeurIPS 2019的相关论文探讨联邦学习这一人工智能子领域的发展。
 
-1. DRL的缺陷
-2. 落地的难点
-3. 未来可能的方向
-
-14:50-15:30<br />
-分享人：游兆阳<br />
-主题：无数据的蒸馏学习<br />
-论文：Data-Free Learning of Student Networks
-
+14:00-14:45 <br />
+分享人：张凤达 <br />
+主题1：基于蒸馏的联邦学习
+论文1：FedMD: Heterogenous Federated Learning via Model Distillation
 1. 背景介绍
-2. 经典蒸馏算法及其缺陷
-3. DAFL算法介绍
+2. 知识蒸馏
+3. FedMD算法介绍
 4. 实验与总结
 
-15:40-16:20<br />
-分享人：雷炳杰<br />
-主题：蒙特卡洛树搜索(MCTS)算法<br />
-论文：A Survey of Monte Carlo Tree Search Methods
+14:55-15:10<br />
+分享人：张凤达 <br />
+主题2：基于主动学习的联邦学习
+论文2：Active Federated Learning
+1. 背景介绍
+2. 主动学习
+3. AFL算法介绍
+4. 实验与总结
 
-1. 介绍相关背景知识
-2. 介绍蒙特卡洛树搜索(MCTS)算法
-3. MCTS 算法实现
+15:20-15:50<br />
+分享人：张娇昱<br />
+主题1：利用匹配分解采样策略优化分散SGD<br />
+论文1：MATCHA: Speeding Up Decentralized SGD via Matching Decomposition Sampling
+1. 背景介绍
+2. MATCHA框架介绍
+3. 匹配分解采样策略
+4. 实验与总结
+
+16:00-16:20<br />
+分享人：张娇昱<br />
+主题2：无偏梯度聚合和可控元更新的联合学习<br />
+论文2：Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating
+1. 背景介绍
+2. 无偏梯度聚合
+3. 可控元更新
+4. 实验与总结
 
 <a name="nkptV"></a>
 ### 活动亮点
@@ -46,7 +56,7 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请�
 ### 活动须知
 本系列活动完全免费，我们为你提供学习资料、地点与实操平台，只要有兴趣都可以报名参加。<br />注意事项：为了更方便进行实践操作，请携带笔记本电脑，现场有老师一对一进行答疑指导。
 
-[报名入口](https://www.wjx.top/jq/46327584.aspx)
+[报名入口](https://www.wjx.top/jq/48561690.aspx)
 
 <a name="jdNNk"></a>
 ### 机器学习沙龙回顾
@@ -74,6 +84,9 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请�
 | 20 | 8.24 | 【论文分享】做梦神经网络；联邦学习；Seq2Seq模型中的Attention机制 | 做梦神经网络：[https://momodel.cn/live/5d6064a81afd9432607db06c](https://momodel.cn/live/5d6064a81afd9432607db06c)<br />联邦学习：<br />[https://momodel.cn/live/5d600a151afd9432607db053](https://momodel.cn/live/5d600a151afd9432607db053)<br />Seq2Seq模型中的Attention机制：<br />[https://momodel.cn/live/5d5ffc891afd94183b29fc9a](https://momodel.cn/live/5d5ffc891afd94183b29fc9a) |
 | 21 | 9.7 | 【论文分享】机器学习算法的预测价值；深度强化学习在机械臂接触操纵任务中的应用；基于耦合网络的推荐系统 | 直播回放：<br />[https://v.douyu.com/show/yVmjvBZldzrvqkNb](https://v.douyu.com/show/yVmjvBZldzrvqkNb) |
 | 22 | 9.21 | 【论文分享】动态时间规整算法；混合联邦蒸馏；深度协作学习 | 动态时间规整：https://momodel.cn/live/5d858c582e62cf2ca9c22088 <br />  混合联邦蒸馏：https://momodel.cn/live/5d858bf5e4ed67738f25516b <br />深度协作学习:  https://momodel.cn/live/5d85be2df7ab16cba041dba3 |
+| 23 | 10.19 | 【论文分享】深度强化学习路在何方；无数据的蒸馏学习；蒙特卡洛树搜索(MCTS)算法 | [深度强化学习路在何方 视频回放](https://v.douyu.com/show/yVY8WwZAADoMLOz9) <br />  [无数据的蒸馏学习 视频回放](https://v.douyu.com/show/NbwE7ZG111BMn5Zz) <br /> [蒙特卡洛树搜索 视频回放](https://v.douyu.com/show/Qyz171mQQgJ7BJj9)  <br /> [蒙特卡洛树搜索 项目实现](https://momodel.cn/explore/5daa6b431828bde9b6d740d1?type=app) |
+
+
 
 ### 关于我们
 Mo 人工智能俱乐部是由人工智能在线建模平台（网址：[https://momodel.cn](https://momodel.cn/)）的研发与产品设计团队发起、致力于降低人工智能开发与使用门槛的俱乐部。团队具备大数据处理分析、可视化与数据建模经验，已承担多领域智能项目，具备从底层到前端的全线设计开发能力。主要研究方向为大数据管理分析与人工智能技术，并以此来促进数据驱动的科学研究。
