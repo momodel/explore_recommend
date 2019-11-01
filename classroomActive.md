@@ -2,7 +2,7 @@
 
 Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！11月2日（周六），我们将在杭州举办第 24 期机器学习开发者沙龙。
 
-时间：11月2日 下午 14:00-16:20<br />
+时间：11月2日 下午 14:00-16:00<br />
 地点：杭州市上城区定安路126号西湖创意谷会议室<br />
 主办：Mo 人工智能俱乐部
 <a name="zPAUh"></a>
@@ -31,22 +31,13 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请�
 3. AFL算法介绍
 4. 实验与总结
 
-15:20-15:50<br />
-分享人：张娇昱<br />
+15:20-16:00<br />
+分享人：张召凯<br />
 主题1：利用匹配分解采样策略优化分散SGD<br />
 论文1：MATCHA: Speeding Up Decentralized SGD via Matching Decomposition Sampling
 1. 背景介绍
 2. MATCHA框架介绍
 3. 匹配分解采样策略
-4. 实验与总结
-
-16:00-16:20<br />
-分享人：张娇昱<br />
-主题2：无偏梯度聚合和可控元更新的联合学习<br />
-论文2：Federated Learning with Unbiased Gradient Aggregation and Controllable Meta Updating
-1. 背景介绍
-2. 无偏梯度聚合
-3. 可控元更新
 4. 实验与总结
 
 <a name="nkptV"></a>
