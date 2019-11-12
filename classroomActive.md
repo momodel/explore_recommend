@@ -1,43 +1,44 @@
-# 第 24 期机器学习开发者沙龙
+# 第 25 期机器学习开发者沙龙
 
-Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！11月2日（周六），我们将在杭州举办第 24 期机器学习开发者沙龙。
+Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！11月16日（周六），我们将在杭州举办第 25 机器学习开发者沙龙。
 
-时间：11月2日 下午 14:00-16:00<br />
-地点：杭州市上城区定安路126号西湖创意谷会议室<br />
+时间：11月16日 晚上 19:00-21:00<br />
+地点：浙江大学紫金港校区蒙民伟楼<br />
 主办：Mo 人工智能俱乐部
 <a name="zPAUh"></a>
 ### 活动内容
-机器学习相关论文分享<br />
-适合人群：针对有机器学习基础，想了解业内动向和研究成果的学者或算法工程师。<br />
-形式：由 Mo 团队人工智能算法工程师和浙江大学计算机系硕士研究生为大家解读主题相关论文。
+**本次分享会为联邦学习专题，通过聚焦最新顶会NeurIPS 2019的相关论文探讨联邦学习这一人工智能子领域的发展。**
 
-本次分享会为联邦学习专题，通过聚焦最新顶会NeurIPS 2019的相关论文探讨联邦学习这一人工智能子领域的发展。
+**Federated Learning（联邦学习）**是一种去分布式的机器学习解决方案，最早于2016年由谷歌公司提出，目的在于通过对保存在大量终端的分布式数据进行训练学习一个高质量中心化的机器学习模型，解决数据孤岛问题。
 
-14:00-14:45 <br />
-分享人：张凤达 <br />
-主题1：基于蒸馏的联邦学习
-论文1：FedMD: Heterogenous Federated Learning via Model Distillation
+适合人群：针对有机器学习基础，想了解联邦学习最新动向和研究成果的学者或算法工程师。
+
+形式：由浙江大学吴超研究员分布式AI团队为大家解读主题相关论文。
+
+**19:00-19:55**<br />
+**分享人：沈弢**<br />
+**主题：分布式优化与异构数据联邦学习算法**<br />
+论文1：Stochastic Gradient Push for Distributed Deep Learning<br />
+论文2：HHHFL: Hierarchical Heterogeneous Horizontal Federated Learning for Electroencephalography<br />
+1. 联邦学习介绍
+2. 去中心化机制
+3. 异构数据联邦学习
+4. 分析与探讨
+
+**20:05-21:00** <br />
+**分享人：徐聪**<br />
+**主题1：异步联合更新**<br />
+论文1：Asynchronous Federated Optimization<br />
 1. 背景介绍
-2. 知识蒸馏
-3. FedMD算法介绍
+2. 问题建模与系统介绍
+3. FedAsync算法分析
 4. 实验与总结
 
-14:55-15:10<br />
-分享人：张凤达 <br />
-主题2：基于主动学习的联邦学习
-论文2：Active Federated Learning
-1. 背景介绍
-2. 主动学习
-3. AFL算法介绍
-4. 实验与总结
-
-15:20-16:00<br />
-分享人：张召凯<br />
-主题1：利用匹配分解采样策略优化分散SGD<br />
-论文1：MATCHA: Speeding Up Decentralized SGD via Matching Decomposition Sampling
-1. 背景介绍
-2. MATCHA框架介绍
-3. 匹配分解采样策略
+**主题2：使用局部/全局代表进行联邦学习**<br />
+论文2：Think Locally, Act Globally: Federated Learning with Local and Global Representations<br />
+1. 问题建模
+2. 初始化方案LeveledInit
+3. 混合模型DeepGLO
 4. 实验与总结
 
 <a name="nkptV"></a>
@@ -47,7 +48,7 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请�
 ### 活动须知
 本系列活动完全免费，我们为你提供学习资料、地点与实操平台，只要有兴趣都可以报名参加。<br />注意事项：为了更方便进行实践操作，请携带笔记本电脑，现场有老师一对一进行答疑指导。
 
-[报名入口](https://www.wjx.top/jq/48561690.aspx)
+[报名入口](https://www.wjx.top/jq/49705213.aspx)
 
 <a name="jdNNk"></a>
 ### 机器学习沙龙回顾
