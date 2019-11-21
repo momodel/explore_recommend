@@ -1,8 +1,8 @@
-# 第 25 期机器学习开发者沙龙
+# 第 26 期机器学习开发者沙龙
 
-Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！11月16日（周六），我们将在杭州举办第 25 机器学习开发者沙龙。
+Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！11月23日（周六），我们将在杭州举办第 26 机器学习开发者沙龙。
 
-时间：11月16日 晚上 19:00-21:00<br />
+时间：11月23日 晚上 19:00-21:00<br />
 地点：浙江大学紫金港校区蒙民伟楼<br />
 主办：Mo 人工智能俱乐部
 <a name="zPAUh"></a>
@@ -15,31 +15,20 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请�
 
 形式：由浙江大学吴超研究员分布式AI团队为大家解读主题相关论文。
 
-**19:00-19:55**<br />
-**分享人：沈弢**<br />
-**主题：分布式优化与异构数据联邦学习算法**<br />
-论文1：Stochastic Gradient Push for Distributed Deep Learning<br />
-论文2：HHHFL: Hierarchical Heterogeneous Horizontal Federated Learning for Electroencephalography<br />
-1. 联邦学习介绍
-2. 去中心化机制
-3. 异构数据联邦学习
-4. 分析与探讨
-
-**20:05-21:00** <br />
-**分享人：徐聪**<br />
-**主题1：异步联合更新**<br />
-论文1：Asynchronous Federated Optimization<br />
+**19:00-19:50**<br />
+**分享人：金松**<br />
+**主题：联邦学习中数据集对训练的影响**<br />
+论文：Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification&Real-World Image Datasets for Federated Learning
 1. 背景介绍
-2. 问题建模与系统介绍
-3. FedAsync算法分析
-4. 实验与总结
+2. 分析非同数据的影响
+3. 现实情况下的联邦学习场景分析
+4. 实验结果不足分析与总结
 
-**主题2：使用局部/全局代表进行联邦学习**<br />
-论文2：Think Locally, Act Globally: Federated Learning with Local and Global Representations<br />
-1. 问题建模
-2. 初始化方案LeveledInit
-3. 混合模型DeepGLO
-4. 实验与总结
+**20：00-20：50<br />
+**分享人：沈弢**<br />
+**主题：待定**<br />
+
+
 
 <a name="nkptV"></a>
 ### 活动亮点
@@ -48,7 +37,7 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请�
 ### 活动须知
 本系列活动完全免费，我们为你提供学习资料、地点与实操平台，只要有兴趣都可以报名参加。<br />注意事项：为了更方便进行实践操作，请携带笔记本电脑，现场有老师一对一进行答疑指导。
 
-[报名入口](https://www.wjx.top/jq/49705213.aspx)
+[报名入口](https://www.wjx.top/jq/50464766.aspx)
 
 <a name="jdNNk"></a>
 ### 机器学习沙龙回顾
@@ -77,6 +66,8 @@ Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请�
 | 21 | 9.7 | 【论文分享】机器学习算法的预测价值；深度强化学习在机械臂接触操纵任务中的应用；基于耦合网络的推荐系统 | 直播回放：<br />[https://v.douyu.com/show/yVmjvBZldzrvqkNb](https://v.douyu.com/show/yVmjvBZldzrvqkNb) |
 | 22 | 9.21 | 【论文分享】动态时间规整算法；混合联邦蒸馏；深度协作学习 | 动态时间规整：https://momodel.cn/live/5d858c582e62cf2ca9c22088 <br />  混合联邦蒸馏：https://momodel.cn/live/5d858bf5e4ed67738f25516b <br />深度协作学习:  https://momodel.cn/live/5d85be2df7ab16cba041dba3 |
 | 23 | 10.19 | 【论文分享】深度强化学习路在何方；无数据的蒸馏学习；蒙特卡洛树搜索(MCTS)算法 | [深度强化学习路在何方 视频回放](https://v.douyu.com/show/yVY8WwZAADoMLOz9) <br />  [无数据的蒸馏学习 视频回放](https://v.douyu.com/show/NbwE7ZG111BMn5Zz) <br /> [蒙特卡洛树搜索 视频回放](https://v.douyu.com/show/Qyz171mQQgJ7BJj9)  <br /> [蒙特卡洛树搜索 项目实现](https://momodel.cn/explore/5daa6b431828bde9b6d740d1?type=app) |
+| 24 | 11.02 | 【论文分享】基于蒸馏的联邦学习；基于主动学习的联邦学习；利用匹配分解采样策略优化分散SGD |[基于蒸馏、主动学习的联邦学习](https://momodel.cn/live/5dbd165e759ebd058aec0311)  <br /> [利用匹配分解采样策略优化分散SGD](https://momodel.cn/live/5dbd1785dece81ddeffda809)|
+| 25 | 11.16 | 【论文分享】分布式优化与异构数据联邦学习算法；异步联合更新；使用局部/全局代表进行联邦学习 |[分布式优化与异构数据联邦学习算法](https://momodel.cn/live/5dce9df2e34e04fbb610de98) <br /> [联邦学习通信优化与异步联邦优化](https://momodel.cn/live/5dcecf2223b1c9191221b21e)|
 
 
 
