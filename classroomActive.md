@@ -28,7 +28,7 @@ Towards Universal Representation Learning for Deep Face Recognition
 ### 活动地址
 钉钉扫码，加入直播群！
 
-<img src="https://imgbed.momodel.cn/Picture1.png"   width="300">
+![](https://imgbed.momodel.cn/20200516143605.png)
 
 
 
