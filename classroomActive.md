@@ -27,8 +27,17 @@ Towards Universal Representation Learning for Deep Face Recognition
 
 ### 活动地址
 钉钉扫码，加入直播群！
+
 <img src="https://imgbed.momodel.cn/Picture1.png"   width="300">
 
+
+
+## 关于我们
+[Mo](https://momodel.cn)（网址：https://momodel.cn） 是一个支持 Python的人工智能在线建模平台，能帮助你快速开发、训练并部署模型。
+
+近期 [Mo](https://momodel.cn) 也在持续进行机器学习相关的入门课程和论文分享活动，欢迎大家关注我们的公众号获取最新资讯！
+
+![](https://imgbed.momodel.cn/联系人.png)
 
 
 <a name="jdNNk"></a>
@@ -66,10 +75,3 @@ Towards Universal Representation Learning for Deep Face Recognition
 
 
 
-
-## 关于我们
-[Mo](https://momodel.cn)（网址：https://momodel.cn） 是一个支持 Python的人工智能在线建模平台，能帮助你快速开发、训练并部署模型。
-
-近期 [Mo](https://momodel.cn) 也在持续进行机器学习相关的入门课程和论文分享活动，欢迎大家关注我们的公众号获取最新资讯！
-
-![](https://imgbed.momodel.cn/联系人.png)
