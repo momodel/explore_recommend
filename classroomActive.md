@@ -26,8 +26,8 @@ Towards Universal Representation Learning for Deep Face Recognition
 通常情况下，识别自然环境下的人脸是非常困难的，因为它们会出现各种各样的变化，比如脸的角度、遮挡、光线、低分辨率等。传统的方法一般通过引入新的变化数据来适应训练数据，将训练数据和一些变化综合在一起，如低分辨率、遮挡和脸的角度。然而，直接输入数据增强之后的训练数据（augmented data）并不会让网络很好地收敛，因为新引入的样本大多是困难样本（hard examples）。而这篇文章提出了一个通用的表示学习框架，它可以处理给定训练数据中可能产生的变化，而不需要利用目标领域的知识。作者将嵌入的特征（feature embedding）分解成多个子嵌入，并将每个子嵌入与不同置信值关联起来，使训练过程更加平滑。通过将变化分类损失和变化对抗损失在不同的分区上正则化，来进一步处理相关子嵌入，已获得更好的表示（representation）。实验表明，该方法在LFW和MegaFace等一般人脸识别数据集上取得了较好的性能，在TinyFace和IJB-S等极端基准上取得了较好的性能。
 
 ### 活动地址
-
-![](https://imgbed.momodel.cn/Picture1.png)
+钉钉扫码，加入直播群！
+<img src="https://imgbed.momodel.cn/Picture1.png"   width="300">
 
 
 
