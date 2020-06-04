@@ -70,10 +70,10 @@ Non-IID 数据集
 |27|11.30| 【论文分享】联邦学习中的贡献度量；规模化的联邦学习系统设计 | [课程资料](https://github.com/momodel/AIClub/tree/master/SharedPaper/20191130)|
 |28|12.05| 【论文分享】联邦学习背景下的MAML与域适应方法；联邦学习框架—fate | [联邦学习背景下的MAML与域适应方法](https://v.douyu.com/show/yVmjvB450NAMqkNb) <br /> [联邦学习框架—fate](https://v.douyu.com/show/jwzOvpJ3lODMZVRm)<br /> |
 |31|03.01|【论文分享】Advances and Open Problems in Federated Learning|[联邦学习FAQ](https://momodel.cn/live/5e5b7e5e1b8ffa8008e30830)<br/>|
-|32|03.08|【论文分享】Representation Learning with Contrastive Predictive Coding|[对比预测分析](
+|32|03.08|【论文分享】Representation Learning with Contrastive Predictive Coding|[对比预测分析](https://momodel.cn/live/5e6da6ee9e1a929502422266)<br/>
 |33|03.15|【论文分享】A Simple Framework for Contrastive Learning of Visual Representations|[SimCLR概述](https://momodel.cn/live/5e6da6ee9e1a929502422266)<br/>|
 |34|03.22|【论文分享】Knowledge Consistency|[知识一致性](https://momodel.cn/live/5e76d579de8da405caf89420)<br/>|
-|35|03.29|【论文分享】Distral: Robust Multitask Reinforcement Learning|[提取&迁移学习]（https://momodel.cn/live/5e8017886ef577758b0c5efb）<br/>|
+|35|03.29|【论文分享】Distral: Robust Multitask Reinforcement Learning|[提取&迁移学习](https://momodel.cn/live/5e8017886ef577758b0c5efb）<br/>|
 |36|04.06|【论文分享】Deep Mutual Learning|[深度相互学习](https://momodel.cn/live/5e89c0f6ad8e6e513ea0e040)<br/>|
 |37|04.13|【论文分享】Administrative behavior-司马贺的决策理论及其人工智能思想|[Application of AI in Administration](https://momodel.cn/live/5e92ec175a9ed60a66808c6c)<br/>|
 |38|04.21|【论文分享】Data Valuation for Collaborative Machine Learning|[Data Valuation](https://b23.tv/NMI0pu)<br/>
