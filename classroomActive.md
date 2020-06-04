@@ -73,7 +73,7 @@ Non-IID 数据集
 |32|03.08|【论文分享】Representation Learning with Contrastive Predictive Coding|[对比预测分析](https://momodel.cn/live/5e6da6ee9e1a929502422266)<br/>
 |33|03.15|【论文分享】A Simple Framework for Contrastive Learning of Visual Representations|[SimCLR概述](https://momodel.cn/live/5e6da6ee9e1a929502422266)<br/>|
 |34|03.22|【论文分享】Knowledge Consistency|[知识一致性](https://momodel.cn/live/5e76d579de8da405caf89420)<br/>|
-|35|03.29|【论文分享】Distral: Robust Multitask Reinforcement Learning|[提取&迁移学习](https://momodel.cn/live/5e8017886ef577758b0c5efb）<br/>|
+|35|03.29|【论文分享】Distral: Robust Multitask Reinforcement Learning|[提取&迁移学习](https://momodel.cn/live/5e8017886ef577758b0c5efb)<br/>|
 |36|04.06|【论文分享】Deep Mutual Learning|[深度相互学习](https://momodel.cn/live/5e89c0f6ad8e6e513ea0e040)<br/>|
 |37|04.13|【论文分享】Administrative behavior-司马贺的决策理论及其人工智能思想|[Application of AI in Administration](https://momodel.cn/live/5e92ec175a9ed60a66808c6c)<br/>|
 |38|04.21|【论文分享】Data Valuation for Collaborative Machine Learning|[Data Valuation](https://b23.tv/NMI0pu)<br/>
