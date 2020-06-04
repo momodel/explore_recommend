@@ -1,16 +1,16 @@
-# Mo-AI 俱乐部第 42 期机器学习学术沙龙邀请函
+# Mo-AI 俱乐部第 44 期机器学习学术沙龙邀请函
 
-Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！5月24日（周日），我们将在线上举办第 42 期机器学习学术沙龙。
+Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！5月24日（周日），我们将在线上举办第 44 期机器学习学术沙龙。
 
 + 活动主题：Non-IID 数据集  
 + 活动举办方：Mo人工智能俱乐部
 + 活动方式：线上（Mo平台直播&钉钉直播)
-+ 活动时间：5月24日19：30-21：30
++ 活动时间：06月07日19：30-21：30
 
 
 ### 活动内容
 #### 主讲人
-刘丽锋(浙江大学-在校学生-软件学院-硕士生-软件工程-2018-硕士生)
+
 #### 分享论文
 Non-IID 数据集
 
@@ -69,6 +69,16 @@ Non-IID 数据集
 |26|11.23| 【论文分享】联邦学习中数据集对训练的影响；联邦学习中的量化方法 | [联邦学习中数据集对训练的影响](https://momodel.cn/live/5dd915cafe279e6e6a024ea2) <br />[联邦学习中的量化方法](https://momodel.cn/live/5dd91aca137547ccb2f648bf)<br /> （电脑端打开链接，点击“进入课程”，点击“回放”按钮观看回放） |
 |27|11.30| 【论文分享】联邦学习中的贡献度量；规模化的联邦学习系统设计 | [课程资料](https://github.com/momodel/AIClub/tree/master/SharedPaper/20191130)|
 |28|12.05| 【论文分享】联邦学习背景下的MAML与域适应方法；联邦学习框架—fate | [联邦学习背景下的MAML与域适应方法](https://v.douyu.com/show/yVmjvB450NAMqkNb) <br /> [联邦学习框架—fate](https://v.douyu.com/show/jwzOvpJ3lODMZVRm)<br /> |
-
-
-
+|31|03.01|【论文分享】Advances and Open Problems in Federated Learning|[联邦学习FAQ](https://momodel.cn/live/5e5b7e5e1b8ffa8008e30830)<br/>|
+|32|03.08|【论文分享】Representation Learning with Contrastive Predictive Coding|[对比预测分析](
+|33|03.15|【论文分享】A Simple Framework for Contrastive Learning of Visual Representations|[SimCLR概述](https://momodel.cn/live/5e6da6ee9e1a929502422266)<br/>|
+|34|03.22|【论文分享】Knowledge Consistency|[知识一致性](https://momodel.cn/live/5e76d579de8da405caf89420)<br/>|
+|35|03.29|【论文分享】Distral: Robust Multitask Reinforcement Learning|[提取&迁移学习]（https://momodel.cn/live/5e8017886ef577758b0c5efb）<br/>|
+|36|04.06|【论文分享】Deep Mutual Learning|[深度相互学习](https://momodel.cn/live/5e89c0f6ad8e6e513ea0e040)<br/>|
+|37|04.13|【论文分享】Administrative behavior-司马贺的决策理论及其人工智能思想|[Application of AI in Administration](https://momodel.cn/live/5e92ec175a9ed60a66808c6c)<br/>|
+|38|04.21|【论文分享】Data Valuation for Collaborative Machine Learning|[Data Valuation](https://b23.tv/NMI0pu)<br/>
+|39|04.28|【论文分享】Momentum Contrast|[MoCo](https://momodel.cn/live/5ea55530474a9992ee6b743f)<br/>|
+|40|05.10|【论文分享】Federated Meta-Learning with Fast Convergence and Efficient Communication|[Federated Meta-Learning](https://momodel.cn/live/5eb7cb9ae9e252740b6fa977)<br/>|
+|41|05.17|【论文分享】Towards Universal Representation Learning for Deep Face Recognition|[Universal Representation Learning](https://momodel.cn/live/5ec0ebb6b34e8b80a5eebabb)<br/>|
+|42|05.24|【论文分享】LEAF 文章&NICO 文章|[Non-IID 数据集](https://momodel.cn/live/5eca1156be146020803402f9)<br/>|
+|43|05.31|【论文分享】Human-level control through deep reinforcement learning|[Deep Q Network](https://momodel.cn/live/5ed36a16fd15f1e87594dc26)<br/>|
