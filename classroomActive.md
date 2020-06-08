@@ -1,25 +1,25 @@
-# Mo-AI 俱乐部第 44 期机器学习学术沙龙邀请函
+# Mo-AI 俱乐部第 45 期机器学习学术沙龙邀请函
 
-Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！06月07日（周日），我们将在线上举办第 44 期机器学习学术沙龙。
+Mo 人工智能俱乐部 正式向感兴趣的小伙伴们发出诚挚的邀请！06月14日（周日），我们将在线上举办第 45 期机器学习学术沙龙。
 
-+ 活动主题：Deep Leakage from Gradients 
++ 活动主题：偏见语言模型 
 + 活动举办方：Mo人工智能俱乐部
 + 活动方式：线上（Mo平台直播&钉钉直播)
-+ 活动时间：06月07日19：30-21：30
++ 活动时间：06月14日19：30-21：30
 
 
 ### 活动内容
 #### 主讲人
-
+宋彤彤  浙江大学软件学院研究生
 #### 分享论文
-Deep Leakage from Gradients
+Linguistic Models for Analyzing and Detecting Biased Language
 #### 大纲
-1.机器学习隐私攻击介绍
-2.深度梯度泄露算法介绍
-3.梯度泄露防御方法
+1. 语言偏见的系统介绍；
+2. 检测偏见的特征与模型介绍；
+3. 实验结果。
 
 #### 引言
-梯度交换是现代多机训练常用的通讯方式，例如分布式训练，联邦学习，梯度交换能够确保训练数据不离开本地，因此被认为是安全的，但是MIT 的一项研究表明，隐私的训练数据可以通过共享的梯度来获取。
+公正的语言是诸如百科全书和科学文本之类的参考资料的要求。但是，偏见无处不在，因此理解其本质和语言实现并因此自动检测偏见至关重要。首先，本文分析了旨在消除Wikipedia文章偏见的人工编辑的真实实例。分析发现了两类偏见：框架偏见，例如称赞或特定于视角的词，我们将其与主观性文献联系起来；和认识论偏见，涉及文本中预设或包含的命题是否毫无争议地被接受为真实。其次，本文确定了这些类别的常见语言暗示，包括事实动词，暗示，对冲和主观强化词。这些见解有助于我们开发模型的功能，以解决具有实际意义的新预测任务：给定偏颇的句子，找出引起偏颇的单词。最后，语言告知的模型的性能几乎与在同一任务上测试过的人一样好。我们将显示代码的结果。
 
 ### 活动地址
 钉钉扫码，加入直播群！
@@ -81,3 +81,4 @@ Deep Leakage from Gradients
 |41|05.17|【论文分享】Towards Universal Representation Learning for Deep Face Recognition|[Universal Representation Learning](https://momodel.cn/live/5ec0ebb6b34e8b80a5eebabb)<br/>|
 |42|05.24|【论文分享】LEAF 文章&NICO 文章|[Non-IID 数据集](https://momodel.cn/live/5eca1156be146020803402f9)<br/>|
 |43|05.31|【论文分享】Human-level control through deep reinforcement learning|[Deep Q Network](https://momodel.cn/live/5ed36a16fd15f1e87594dc26)<br/>|
+|44|06.07|【论文分享】Deep Leakage from Gradients|[Deep Leakage from Gradients](https://b23.tv/rkArZz)
