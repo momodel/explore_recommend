@@ -81,4 +81,4 @@ Linguistic Models for Analyzing and Detecting Biased Language
 |41|05.17|【论文分享】Towards Universal Representation Learning for Deep Face Recognition|[Universal Representation Learning](https://momodel.cn/live/5ec0ebb6b34e8b80a5eebabb)<br/>|
 |42|05.24|【论文分享】LEAF 文章&NICO 文章|[Non-IID 数据集](https://momodel.cn/live/5eca1156be146020803402f9)<br/>|
 |43|05.31|【论文分享】Human-level control through deep reinforcement learning|[Deep Q Network](https://momodel.cn/live/5ed36a16fd15f1e87594dc26)<br/>|
-|44|06.07|【论文分享】Deep Leakage from Gradients|[Deep Leakage from Gradients](https://b23.tv/rkArZz)
+|44|06.07|【论文分享】Deep Leakage from Gradients|[Deep Leakage from Gradients](https://b23.tv/rkArZz)<br/>|
