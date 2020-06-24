@@ -1,26 +1,27 @@
-# Mo-AI 俱乐部第 46 期机器学习学术沙龙邀请函
+# Mo-AI 俱乐部第 47 期机器学习学术沙龙邀请函
 
-Mo 人工智能俱乐部正式向感兴趣的小伙伴们发出诚挚的邀请！06月21日（周日），我们将在线上举办第 46 期机器学习学术沙龙。
+Mo 人工智能俱乐部正式向感兴趣的小伙伴们发出诚挚的邀请！06月28日（周日），我们将在线上举办第 47 期机器学习学术沙龙。
 
-+ 活动主题：路面自动监测 
++ 活动主题： SRGAN
 + 活动举办方：Mo人工智能俱乐部
 + 活动方式：线上（Mo平台直播&钉钉直播)
-+ 活动时间：06月21日19：30-21：30
++ 活动时间：06月28日19：30-21：30
 
 
 ### 活动内容
-自动监测
+SRGAN
 #### 主讲人
-林泽龙(浙江大学-在校学生-软件学院-硕士生-软件工程-2019)
+王镇(浙江大学-在校学生-软件学院-硕士生-软件工程-2019)
 #### 分享论文
-A deep learning approach to automatic road surface monitoring and pothole detection 
+Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
 #### 大纲
-1.实验目的
-2.数据收集和数据处理
-3.方法论
+1.背景介绍
+2.主要贡献
+3.方法
+4.结果
 
 #### 引言
-路面异常不仅会影响道路质量，还会影响驾驶员的安全性，车辆的机械结构以及油耗。已经提出了几种自动监测路面状况的方法，以评估路面的粗糙度并检测坑洼。其中一些方法通过使用内置的智能手机加速计来感测路面，从而采用了拥挤感的观点。尽管人群感知角度具有无处不在和成本低廉的优点，但它对于由人工结构，驾驶员动作和路面特性产生的误报具有一定的敏感性，这些误报不能被视为道路异常。因此，我们提出了一种深度学习方法，该方法允许我们（a）自动识别不同种类的路面，并且（b）在基于人群感知的应用环境中自动将坑洼与减速带或驾驶员动作产生的不稳定因素区分开来。特别是，我们分析并应用了不同的深度学习模型：卷积神经网络，LSTM网络和储层计算模型。实验是在真实世界的信息下进行的，结果显示出在解决这两个问题上的准确性。
+这是2017年发表在CVPR上的一篇文章，原文叫做"Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network"。图像超分辨率（Image Super-Resolution），顾名思义，即从低分辨率的图像获得高分辨率的图像。传统的CNN网络基于最小化像素级损失函数的方法，尽管在PSNR (peak signal- to-noise ratio) 和SSIM (structural similarity) 这些客观的图像评价指标上得到很好的结果，但它们往往缺乏高频细节而无法在感官视觉上达到满意的程度。因此本文作者提出了SRGAN，一种将GAN应用于图像超分辨率领域的方法，第一次考虑了人类的视觉满意度。
 
 ### 活动地址
 钉钉扫码，加入直播群！
@@ -84,3 +85,4 @@ A deep learning approach to automatic road surface monitoring and pothole detect
 |43|05.31|【论文分享】Human-level control through deep reinforcement learning|[Deep Q Network](https://momodel.cn/live/5ed36a16fd15f1e87594dc26)<br/>|
 |44|06.07|【论文分享】Deep Leakage from Gradients|[Deep Leakage from Gradients](https://b23.tv/rkArZz)<br/>|
 |45|06.14|【论文分享】偏见语言的语言模型|[Bias Detection](https://url.cn/RO0f8oIE?sf=uri)<br/>|
+|46|06.21|【论文分享】道路监测和坑洼检测|[道路监测](https://b23.tv/xnwkZ3)<br/>|
