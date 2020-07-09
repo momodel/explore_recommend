@@ -1,6 +1,6 @@
-# Mo-AI 俱乐部第 48 期机器学习学术沙龙邀请函
+# Mo-AI 俱乐部第 49 期机器学习学术沙龙邀请函
 
-Mo 人工智能俱乐部正式向感兴趣的小伙伴们发出诚挚的邀请！05月05日（周日），我们将在线上举办第 48 期机器学习学术沙龙。
+Mo 人工智能俱乐部正式向感兴趣的小伙伴们发出诚挚的邀请！07月12日（周日），我们将在线上举办第 49 期机器学习学术沙龙。
 
 + 活动主题： GAN
 + 活动举办方：Mo人工智能俱乐部
@@ -11,17 +11,17 @@ Mo 人工智能俱乐部正式向感兴趣的小伙伴们发出诚挚的邀请�
 ### 活动内容
 GAN
 #### 主讲人
-魏祖昌(浙江大学-在校学生-软件学院-硕士生-软件工程-2019)
+梅昊铭(浙江大学-在校学生-工程师学院-硕士生-计算机技术-2019)
 #### 分享论文
-Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting
+利用随机组合优化算法求解TSP问题
 #### 大纲
-1.背景介绍
-2.主要贡献
-3.方法
-4.结果
+1.TSP问题简述
+2.算法原理
+3.实验与结论
+4.代码演示
 
 #### 引言
-这是2017年发表在CVPR上的一篇文章，原文叫做"Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network"。图像超分辨率（Image Super-Resolution），顾名思义，即从低分辨率的图像获得高分辨率的图像。传统的CNN网络基于最小化像素级损失函数的方法，尽管在PSNR (peak signal- to-noise ratio) 和SSIM (structural similarity) 这些客观的图像评价指标上得到很好的结果，但它们往往缺乏高频细节而无法在感官视觉上达到满意的程度。因此本文作者提出了SRGAN，一种将GAN应用于图像超分辨率领域的方法，第一次考虑了人类的视觉满意度。引言：这是一篇2019年发表在AAAI上面的一篇文章，原文叫“Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting”。这篇文章主要介绍了用GCN的模型对非欧式关系进行建模。以前也有用CNN网络对一些非欧式关系进行建模，但CNN在处理远距离的区域关系但关系紧密的区域时表现的不是很好。GCN网络则很好的解决了这个问题。在这篇论文中所提出模型用GCN网络来从相邻性、区域相似度和交通连接性者三个方面提取非欧氏的区域关系。
+TSP问题是一个NP-Hard问题。当数据规模较大时，计算机无法采用经典的组合优化算法求解该问题。因此求解TSP问题近似解的优化算法就应运而生，如随机组合优化。此处，主要介绍两种基本的随机组合优化算法：模拟退火算法（SA）和遗传算法（GA），并展示如何使用上述两种算法求解TSP问题。
 
 ### 活动地址
 钉钉扫码，加入直播群！
@@ -87,3 +87,4 @@ Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasti
 |45|06.14|【论文分享】偏见语言的语言模型|[Bias Detection](https://url.cn/RO0f8oIE?sf=uri)<br/>|
 |46|06.21|【论文分享】道路监测和坑洼检测|[道路监测](https://b23.tv/xnwkZ3)<br/>|
 |47|06.28|【论文分享】
+|48|07.05|【论文分享】
