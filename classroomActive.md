@@ -86,5 +86,5 @@ BSN&BMN
 |45|06.14|【论文分享】偏见语言的语言模型|[Bias Detection](https://url.cn/RO0f8oIE?sf=uri)<br/>|
 |46|06.21|【论文分享】道路监测和坑洼检测|[道路监测](https://b23.tv/xnwkZ3)<br/>|
 |47|06.28|【论文分享】Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network|[SRGAN](https://b23.tv/5XuNlA)<br/>|
-|48|07.05|【论文分享】 | <br/>|
+|48|07.05|【论文分享】 Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting| <br/>|
 |49|07.12|【论文分享】利用随机组合优化算法求解TSP问题|[TSP](https://b23.tv/qdS7Mb)<br/>|
