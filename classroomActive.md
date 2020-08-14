@@ -1,27 +1,26 @@
-# Mo-AI 俱乐部第 52 期机器学习学术沙龙邀请函
+# Mo-AI 俱乐部第 53 期机器学习学术沙龙邀请函
 
-Mo 人工智能俱乐部正式向感兴趣的小伙伴们发出诚挚的邀请！08月09日（周日），我们将在线上举办第 52 期机器学习学术沙龙。
+Mo 人工智能俱乐部正式向感兴趣的小伙伴们发出诚挚的邀请！08月16日（周日），我们将在线上举办第 53 期机器学习学术沙龙。
 
-+ 活动主题：Population Based Augmentation
++ 活动主题：Noisy labels learning
 + 活动举办方：Mo人工智能俱乐部
 + 活动方式：线上（Mo平台直播&钉钉直播)
-+ 活动时间：08月09日19：30-21：30
++ 活动时间：08月16日19：30-21：30
 
 
 ### 活动内容
-Bootstrap Your Own Latent
+Noisy labels learning
 #### 主讲人
-张凤达 计算机科学与技术学院博士生
+游兆阳(浙江大学-在校学生-计算机科学与技术学院-硕士生-计算机科学与技术-2018)
 #### 分享论文
 Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
 #### 大纲
-1）对比学习相关工作总结梳理 
-2）BYOL方法提出背景 
-3）BYOL方法介绍 
-4）BYOL实验与结果分析 
-5）个人对BYOL的理解
+1.noisy labels背景
+2.方案调研
+3.实验结论
+4..使用建议
 #### 引言
-学习到图片的好的表示并利用其高效的完成下游任务，是计算机视觉领域中的一个关键挑战。近年来，许多不同的无监督方法被提出，用于学习这些表示。其中，对比学习方法取得了目前最好的效果。无监督对比学习通常通过减少由同一张图片做不同的数据增强方式得到的不同的新的图像（称为正样本对）之间的距离，增大由不同图片增强得到的图像（称为负样本对）之间的距离的方式来训练模型学习表示。目前已有的对比学习方法依赖于负样本对，往往需要使用较大的批处理尺寸、存储库或者某种负样本挖掘策略来检索负样本，而BYOL的优化过程则不需要负样本对。本次分享首先梳理对比学习的发展历程，之后回顾目前效果最好的几种无监督对比学习方法，最后详细介绍BYOL这篇论文。
+深度学习需要大量的标注样本，为了减少人工标注的成本，许多时候公司会采取搜索引擎，社交平台信息等方式获取数据。这些来源的数据都不一定是可靠的。在我们这边，可能我们会通过app上用户自己标注的内容来获取ground truth。考虑到很多人不会在app里老实的填写性别生日等信息，所以也会不可避免的产生噪音。 再则，在PU learning ，自监督学习类似的工作中，我们如果对unlabeled sample 随机采样成neg sample 训练，这时候我们也可以把负样本看成有noisy的样本进行训练。
 
 ### 活动地址
 钉钉扫码，加入直播群！
@@ -89,3 +88,6 @@ Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
 |47|20.06.28|【论文分享】Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network|[SRGAN](https://b23.tv/5XuNlA)<br/>|
 |48|20.07.05|【论文分享】 Spatiotemporal Multi-Graph Convolution Network for Ride-hailing Demand Forecasting|[MGCN在网约车流量中的应用](https://b23.tv/fUGkWw)<br/>|
 |49|20.07.12|【论文分享】利用随机组合优化算法求解TSP问题|[TSP](https://b23.tv/qdS7Mb)<br/>|
+|50|20.07.19|【论文分享】基于边界匹配的时序动作|[BSN&BMN](https://zhuanlan.zhihu.com/p/174518563)<br/>|
+|51|20.07.26|【论文分享】Population Based Augmentation|[Population Based Augmentation](https://zhuanlan.zhihu.com/p/174565546)<br/>|
+|52|20.08.09|【论文分享】Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning|[]
