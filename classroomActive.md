@@ -14,7 +14,7 @@ DCN
 程文卓(浙江大学-在校学生-工程师学院-硕士生-计算机技术-2018)
 #### 分享论文
 Deep & Cross Network for Ad Click Predictions
-####大纲
+#### 大纲
 1.DCN背景
 2.相关工作
 3.动机与方法
