@@ -89,4 +89,7 @@ Deep & Cross Network for Ad Click Predictions
 |49|20.07.12|【论文分享】利用随机组合优化算法求解TSP问题|[TSP](https://b23.tv/qdS7Mb)<br/>|
 |50|20.07.19|【论文分享】基于边界匹配的时序动作|[BSN&BMN](https://zhuanlan.zhihu.com/p/174518563)<br/>|
 |51|20.07.26|【论文分享】Population Based Augmentation|[Population Based Augmentation](https://zhuanlan.zhihu.com/p/174565546)<br/>|
-|52|20.08.09|【论文分享】Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning|[]
+|52|20.08.09|【论文分享】Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning|[BYQL]（https://b23.tv/BV1mV411z7nB）<br/>|
+|53|20.08.09|【论文分享】Noisy labels learning|[Noisy labels learning](https://b23.tv/BV1N5411b7V6)<br/>|
+|54|20.08.09|【论文分享】GhostNet: More Features from Cheap Operations|[GhostNet](https://b23.tv/BV1N5411b7V6)<br/>|
+
