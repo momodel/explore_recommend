@@ -1,22 +1,22 @@
-# Mo-AI 俱乐部第 59 期机器学习学术沙龙邀请函
+# Mo-AI 俱乐部第 60 期机器学习学术沙龙邀请函
 
-Mo 人工智能俱乐部正式向感兴趣的小伙伴们发出诚挚的邀请！09月27日（周日），我们将在线上举办第 59 期机器学习学术沙龙。
+Mo 人工智能俱乐部正式向感兴趣的小伙伴们发出诚挚的邀请！10月11日（周日），我们将在线上举办第 60 期机器学习学术沙龙。
 
 + 活动主题：GAN与知识蒸馏
 + 活动举办方：Mo人工智能俱乐部
 + 活动方式：线上（Mo平台直播&钉钉直播)
-+ 活动时间：09月27日19：30-20：30
++ 活动时间：10月11日19：30-20：30
 
 ### 活动内容
-GAN与知识蒸馏
+从Margin看不平衡学习
 #### 主讲人
-张真源(浙江大学-在校学生-软件学院-硕士生-电子信息-2020)
+张杰(浙江大学-在校研究生-软件学院-硕士生-2020)
 #### 分享论文
-Data-Free Learning of Student Networks
+Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss
 #### 大纲
-1.蒸馏相关算法回顾。 2.GAN的引入及简单介绍。 3.蒸馏 meets GAN。 4.生成器损失函数的设计。 5.实验结果及分析。
+1.Imbalanced learning背景与相关工作介绍。 2.常用解决方法。 3.Label-Distribution-Aware Margin Loss算法证明与实验。
 #### 引言
-近年来知识蒸馏的各种算法在模型压缩方面取得了具大的成功。然而大部分的蒸馏算法都要求教师和学生有相同的输入，在实际的应用场景中，教师网络的训练数据很有可能是隐私性的，这就导致了大多数的知识蒸馏算法无法直接应用。利用GAN来生成一些假数据作为蒸馏的公共数据集是一种很直观的解决办法，我们这次分享的内容就是蒸馏与GAN的一种结合方法。欢迎大家参加。
+分享引言：当训练数据集存在严重的标签不平衡时，但测试标准要求对较少出现的类进行良好的泛化，此时深度学习算法的性能较差。如何在imbalanced data情景下提高分类器的泛华能力了成了一个亟待解决的问题。我们这次分享的内容是目前该方向的前沿工作。欢迎大家参加。
 ### 活动地址
 钉钉扫码，加入直播群！
 
@@ -86,6 +86,10 @@ Data-Free Learning of Student Networks
 |50|20.07.19|【论文分享】基于边界匹配的时序动作|[BSN&BMN](https://zhuanlan.zhihu.com/p/174518563)<br/>|
 |51|20.07.26|【论文分享】Population Based Augmentation|[Population Based Augmentation](https://zhuanlan.zhihu.com/p/174565546)<br/>|
 |52|20.08.09|【论文分享】Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning|[BYQL]（https://b23.tv/BV1mV411z7nB）<br/>|
-|53|20.08.09|【论文分享】Noisy labels learning|[Noisy labels learning](https://b23.tv/BV1N5411b7V6)<br/>|
-|54|20.08.09|【论文分享】GhostNet: More Features from Cheap Operations|[GhostNet](https://b23.tv/BV1N5411b7V6)<br/>|
-
+|53|20.08.16|【论文分享】Noisy labels learning|[Noisy labels learning](https://b23.tv/BV1N5411b7V6)<br/>|
+|54|20.08.25|【论文分享】GhostNet: More Features from Cheap Operations|[GhostNet](https://b23.tv/BV1N5411b7V6)<br/>|
+|55|20.08.31|【论文分享】DCN: Deep & Cross Network|[DCN](https://b23.tv/BV1j64y1F7NY)<br/>|
+|56|20.09.06|【论文分享】联邦学习中的隐私与保护|[联邦学习中的隐私与保护](https://b23.tv/BV1Y54y1C7TR)<br/>|
+|57|20.09.13|【论文分享】知识蒸馏：注意力迁移|[注意力迁移](https://b23.tv/BV1M64y1F7Zr)<br/>|
+|58|20.09.20|【论文分享】知识蒸馏：Data-Free Learning of Student Networks|[Data-Free Learning of Student Networks](https://b23.tv/BV1654y1R7eZ)<br/>|
+|59|20.09.27|【论文分享】知识蒸馏：FITNETS|[FITNETS](https://b23.tv/BV1154y1k7NC)<br/>|
