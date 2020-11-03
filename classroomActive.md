@@ -92,4 +92,7 @@ Federated Semi-Supervised Learning with Inter-Client Consistency
 |56|20.09.06|【论文分享】联邦学习中的隐私与保护|[联邦学习中的隐私与保护](https://b23.tv/BV1Y54y1C7TR)<br/>|
 |57|20.09.13|【论文分享】知识蒸馏：注意力迁移|[注意力迁移](https://b23.tv/BV1M64y1F7Zr)<br/>|
 |58|20.09.20|【论文分享】知识蒸馏：Data-Free Learning of Student Networks|[Data-Free Learning of Student Networks](https://b23.tv/BV1654y1R7eZ)<br/>|
-|59|20.09.27|【论文分享】知识蒸馏：FITNETS|[FITNETS](https://b23.tv/BV1154y1k7NC)<br/>|
+|59|20.10.04|【论文分享】知识蒸馏：FITNETS|[FITNETS](https://b23.tv/BV1154y1k7NC)<br/>|
+|60|20.10.11|【论文分享】从Margin看不平衡学习|[从Margin看不平衡学习](https://www.bilibili.com/video/BV1N541177kr)<br/>|
+|61|20.10.18|【论文分享】联邦学习：|[联邦学习的鲁棒性](https://www.bilibili.com/video/BV1jZ4y1V7gT)<br/>|
+|60|20.10.25|【论文分享】联邦学习：Vision-and-Language 中的联邦学习|[Vision-and-Language 中的联邦学习](https://www.bilibili.com/video/BV1M54y1r7rm)<br/>|
