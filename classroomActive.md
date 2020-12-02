@@ -95,9 +95,8 @@ Towards Federated Learning at Scale: System Design
 |59|20.10.04|【论文分享】知识蒸馏：FITNETS|[FITNETS](https://b23.tv/BV1154y1k7NC)<br/>|
 |60|20.10.11|【论文分享】从Margin看不平衡学习|[从Margin看不平衡学习](https://www.bilibili.com/video/BV1N541177kr)<br/>|
 |61|20.10.18|【论文分享】联邦学习：联邦学习的鲁棒性|[联邦学习的鲁棒性](https://www.bilibili.com/video/BV1jZ4y1V7gT)<br/>|
-|60|20.10.25|【论文分享】联邦学习：Vision-and-Language 中的联邦学习|[Vision-and-Language 中的联邦学习](https://www.bilibili.com/video/BV1M54y1r7rm)<br/>|
-|61|20.10.18|【论文分享】联邦学习：联邦学习的鲁棒性|[联邦学习的鲁棒性](https://www.bilibili.com/video/BV1jZ4y1V7gT)<br/>|
-|61|20.10.18|【论文分享】联邦学习：联邦半监督学习|[联邦半监督学习](https://www.bilibili.com/video/BV1u541157q9?p=21)<br/>|
-|61|20.10.18|【论文分享】联邦学习：联邦学习的数据定价|[联邦学习的数据定价](https://www.bilibili.com/video/BV1u541157q9?p=22)<br/>|
-|61|20.10.18|【论文分享】联邦学习：联邦学习与推荐系统的结合|[联邦学习与推荐系统的结合](https://www.bilibili.com/video/BV1u541157q9?p=23)<br/>|
-|61|20.10.18|【论文分享】云端容器的GPU隔离方案|[云端容器的GPU隔离方案](https://www.bilibili.com/video/BV1u541157q9?p=24)<br/>|
+|62|20.10.25|【论文分享】联邦学习：Vision-and-Language 中的联邦学习|[Vision-and-Language 中的联邦学习](https://www.bilibili.com/video/BV1M54y1r7rm)<br/>|
+|63|20.11.01|【论文分享】联邦学习：联邦半监督学习|[联邦半监督学习](https://www.bilibili.com/video/BV1u541157q9?p=21)<br/>|
+|64|20.11.08|【论文分享】联邦学习：联邦学习的数据定价|[联邦学习的数据定价](https://www.bilibili.com/video/BV1u541157q9?p=22)<br/>|
+|65|20.11.15|【论文分享】联邦学习：联邦学习与推荐系统的结合|[联邦学习与推荐系统的结合](https://www.bilibili.com/video/BV1u541157q9?p=23)<br/>|
+|67|20.11.29|【论文分享】云端容器的GPU隔离方案|[云端容器的GPU隔离方案](https://www.bilibili.com/video/BV1u541157q9?p=24)<br/>|
