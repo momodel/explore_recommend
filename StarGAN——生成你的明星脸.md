@@ -89,12 +89,8 @@ starGAN 的一个重要优势在于它能够同时合并包含不同标签的不
 以 celebA 数据为例，下载后的数据包括 label 文件和图像。
 
 - 文件的第一行为图像的总数：202599。
-- 第二行为数据处理的类别，共 40 种，如下：
-> (1， '5_o_Clock_Shadow')， (2， 'Arched_Eyebrows')， (3， 'Attractive')， (4， 'Bags_Under_Eyes')， (5， 'Bald')， (6， 'Bangs')， (7， 'Big_Lips')， (8， 'Big_Nose')， (9， 'Black_Hair')， (10， 'Blond_Hair')， (11， 'Blurry')， (12， 'Brown_Hair')， (13， 'Bushy_Eyebrows')， (14， 'Chubby')， (15， 'Double_Chin')， (16， 'Eyeglasses')， (17， 'Goatee')， (18， 'Gray_Hair')， (19， 'Heavy_Makeup')， (20， 'High_Cheekbones')， (21， 'Male')， (22， 'Mouth_Slightly_Open')， (23， 'Mustache')， (24， 'Narrow_Eyes')， (25， 'No_Beard')， (26， 'Oval_Face')， (27， 'Pale_Skin')， (28， 'Pointy_Nose')， (29， 'Receding_Hairline')， (30， 'Rosy_Cheeks')， (31， 'Sideburns')， (32， 'Smiling')， (33， 'Straight_Hair')， (34， 'Wavy_Hair')， (35， 'Wearing_Earrings')， (36， 'Wearing_Hat')， (37， 'Wearing_Lipstick')， (38， 'Wearing_Necklace')， (39， 'Wearing_Necktie')， (40， 'Young')
-
-
+- 第二行为数据处理的类别，共 40 种。
 - 第三行及之后的每行为，图像名，已经对应的 40 种类别的 label ， label 值为 1 或 -1。
-> 000001.jpg -1 1 1 -1 -1 -1 -1 -1 -1 -1 -1 1 -1 -1 -1 -1 -1 -1 1 1 -1 1 -1 -1 1 -1 -1 1 -1 -1 -1 1 1 -1 1 -1 1 -1 -1 1
 
 
 <a name="d95db800"></a>
