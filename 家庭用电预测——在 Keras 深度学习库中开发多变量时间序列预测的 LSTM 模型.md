@@ -397,15 +397,14 @@ def series_to_supervised(data, n_in=1, n_out=1, dropnan=True):
 
 
 
- <div>
+
+ <div style="width:40%;display:inline-block;">
     <h3>微信公众号: MomodelAI</h3>
     <img src='https://mo-imgs.momodel.cn/WeChatPublicAccount.png' height="220"/>
  </div>
- <br/>
- <br/>
 
-<div>
+<div style='width:40%;display:inline-block'>
     <h3>添加管理员微信加入AI俱乐部群聊</h3>
-    <img src='https://mo-imgs.momodel.cn/wechat_office_contact.png' height="210">
+    <img src='https://mo-imgs.momodel.cn/wechat_office_contact.png' height="220">
 </div>
 
