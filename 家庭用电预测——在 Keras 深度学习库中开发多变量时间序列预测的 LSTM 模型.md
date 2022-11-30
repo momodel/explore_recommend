@@ -45,14 +45,14 @@ df = pd.read_csv(path, sep=';',
 # 我们查看前 5 条数据
 df.head()
 ```
-![屏幕快照 2019-05-17 下午1.26.02.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558070784379-391dd7f8-0cfa-4e78-8e31-05ab1b424da0.png#align=left&display=inline&height=224&name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-17%20%E4%B8%8B%E5%8D%881.26.02.png&originHeight=224&originWidth=1005&size=42357&status=done&width=1005)<br />我们可以看出 Global_active_power 大于 Global_reactive_power， voltage 基本稳定在 233 伏特。
+![屏幕快照 2019-05-17 下午1.26.02.png](https://imgbed.momodel.cn/20221130143301.png)<br />我们可以看出 Global_active_power 大于 Global_reactive_power， voltage 基本稳定在 233 伏特。
 
 ```python
 # 了解数据的分布
 df.describe()
 ```
 
-![屏幕快照 2019-05-17 下午1.38.15.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558071521599-1ae72546-e686-4889-b25c-31f9ea4f2a2e.png#align=left&display=inline&height=155&name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-17%20%E4%B8%8B%E5%8D%881.38.15.png&originHeight=195&originWidth=938&size=45248&status=done&width=746)<br />我们可以通过上表了解数据的分布特征，比如均值和方差，还有最小值等等。
+![屏幕快照 2019-05-17 下午1.38.15.png](https://imgbed.momodel.cn/20221130143330.png)<br />我们可以通过上表了解数据的分布特征，比如均值和方差，还有最小值等等。
 
 <a name="gxH0n"></a>
 #### 处理缺失值
@@ -91,7 +91,9 @@ plt.tight_layout()
 plt.show()
 ```
 
-![output_21_0.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558071863420-d09515d0-10d4-4982-b15f-d88ad8aa9f65.png#align=left&display=inline&height=244&name=output_21_0.png&originHeight=280&originWidth=424&size=24154&status=done&width=370)![output_21_1.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558071879582-9974e984-d82e-4411-8f33-c776f28bbd73.png#align=left&display=inline&height=245&name=output_21_1.png&originHeight=280&originWidth=424&size=19753&status=done&width=371)
+![output_21_0.png](https://imgbed.momodel.cn/1558071863420-d09515d0-10d4-4982-b15f-d88ad8aa9f65.png)
+![output_21_1.png](https://imgbed.momodel.cn/1558071879582-9974e984-d82e-4411-8f33-c776f28bbd73.png)
+
 
 ```python
 # 对 'Global_active_power' 按季度进行聚合
@@ -109,7 +111,8 @@ plt.title('Voltage per quarter (summed over quarter)')
 plt.show()
 ```
 
-![output_23_0.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558071963690-214839e9-1dbb-411d-af75-82720eace4f1.png#align=left&display=inline&height=296&name=output_23_0.png&originHeight=364&originWidth=414&size=19823&status=done&width=337)![output_24_0.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558072023859-69089f83-b6e0-498a-bc58-d9651d530c5f.png#align=left&display=inline&height=309&name=output_24_0.png&originHeight=364&originWidth=416&size=22158&status=done&width=353)<br />我们可以看出每个月电压平均值变化幅度非常小，基本保持稳定。
+![output_23_0.png](https://imgbed.momodel.cn/1558071963690-214839e9-1dbb-411d-af75-82720eace4f1.png)
+![output_24_0.png](https://imgbed.momodel.cn/1558072023859-69089f83-b6e0-498a-bc58-d9651d530c5f.png)<br />我们可以看出每个月电压平均值变化幅度非常小，基本保持稳定。
 
 ```python
 # 下面我们比较对不同特征以天进行重采样的数值
@@ -133,14 +136,14 @@ plt.show()
 ```
 
 
-![output_26_0.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558072112835-9c492248-e516-44df-af18-5b67c0cd834e.png#align=left&display=inline&height=578&name=output_26_0.png&originHeight=578&originWidth=880&size=166191&status=done&width=880)
+![output_26_0.png](https://imgbed.momodel.cn/1558072112835-9c492248-e516-44df-af18-5b67c0cd834e.png)
 
 ```python
 # 下面我们看看 ‘Global_active_power‘ 数值分布情况
 sns.distplot(df['Global_active_power']);
 ```
 
-![output_27_0.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558072146557-3bf39d5e-6e10-49c9-8595-d84f7421a1da.png#align=left&display=inline&height=268&name=output_27_0.png&originHeight=268&originWidth=375&size=10178&status=done&width=375)
+![output_27_0.png](https://imgbed.momodel.cn/1558072146557-3bf39d5e-6e10-49c9-8595-d84f7421a1da.png)
 
 可以看出家庭消耗的总有功功率主要集中在 0-2kw 范围内
 
@@ -154,7 +157,7 @@ sns.jointplot(x='Global_intensity', y='Global_active_power', data=data_returns)
 plt.show()
 ```
 
-![output_30_0.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558072232500-6850370f-d0e8-4042-8d02-e7b400246993.png#align=left&display=inline&height=375&name=output_30_0.png&originHeight=424&originWidth=421&size=11776&status=done&width=372)
+![output_30_0.png](https://imgbed.momodel.cn/1558072232500-6850370f-d0e8-4042-8d02-e7b400246993.png)
 
 ```python
 # 查看 'Voltage' 和 'Global_active_power' 之间的关系
@@ -163,7 +166,7 @@ plt.show()
 ```
 
 
-![output_31_0.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558072282219-37a56e44-4f68-4393-8a33-9f36e691203f.png#align=left&display=inline&height=375&name=output_31_0.png&originHeight=424&originWidth=421&size=11976&status=done&width=372)
+![output_31_0.png](https://imgbed.momodel.cn/1558072282219-37a56e44-4f68-4393-8a33-9f36e691203f.png)
 
 从上面的两个图中可以看出 'Global_intensity' 和 'Global_active_power' 是线性相关的。 但 'Voltage' 和 'Global_active_power' 的相关性较低， 这是机器学习所要观察的。
 
@@ -178,9 +181,9 @@ plt.title('resampled over year',size=15)
 sns.heatmap(df.resample('A').mean().corr(),linewidths=0.1,vmax=1.0, 
             square=True, cmap=plt.cm.RdBu, linecolor='white', annot=True)
 ```
-![屏幕快照 2019-05-17 下午1.55.12.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558072545607-463642f7-0968-464e-b55e-4f316deb8c71.png#align=left&display=inline&height=310&name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-17%20%E4%B8%8B%E5%8D%881.55.12.png&originHeight=372&originWidth=421&size=50483&status=done&width=351)![屏幕快照 2019-05-17 下午1.55.58.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558072584449-c31068ba-cd76-4314-a68a-eff004a854ed.png#align=left&display=inline&height=315&name=%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-05-17%20%E4%B8%8B%E5%8D%881.55.58.png&originHeight=373&originWidth=421&size=50871&status=done&width=355)<br />从上面可以看出，采用重采样技术可以改变特征之间的相关性， 这对于特征工程非常重要。
-<a name="t0wYf"></a>
-### [](http://www.momodel.cn:8899/workspace/5cde0ed11afd94371e5697ff/app#%E7%AC%AC%E4%B8%89%E6%AD%A5-%E5%A4%9A%E5%8F%98%E9%87%8FLSTM%E9%A2%84%E6%B5%8B%E6%A8%A1%E5%9E%8B)
+![屏幕快照 2019-05-17 下午1.55.12.png](https://imgbed.momodel.cn/1558072545607-463642f7-0968-464e-b55e-4f316deb8c71.png)
+![屏幕快照 2019-05-17 下午1.55.58.png](https://imgbed.momodel.cn/1558072584449-c31068ba-cd76-4314-a68a-eff004a854ed.png)<br />从上面可以看出，采用重采样技术可以改变特征之间的相关性， 这对于特征工程非常重要。
+
 <a name="d1d0c098"></a>
 ### 第四步 多变量LSTM预测模型
 在可以使用深度学习之前，必须将时间序列预测问题调整为监督学习问题，形成输入和输出序列对，利用前一时间的 Global_active_power 和其他特征预测当前时间的 Global_active_power。
@@ -299,7 +302,7 @@ yhat = model.predict(test_X)
 test_X = test_X.reshape((test_X.shape[0], 7))
 ```
 
-![output_54_1.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558073265903-e17735fe-468a-42a8-bf3a-508094040f3d.png#align=left&display=inline&height=278&name=output_54_1.png&originHeight=278&originWidth=402&size=11734&status=done&width=402)<br />我们可以看出模型的收敛速度很快。
+![output_54_1.png](https://imgbed.momodel.cn/1558073265903-e17735fe-468a-42a8-bf3a-508094040f3d.png)<br />我们可以看出模型的收敛速度很快。
 
 <a name="4ff81b8c"></a>
 ### 第五步 模型评估
@@ -337,7 +340,7 @@ plt.legend(fontsize=15)
 plt.show()
 ```
 
-![output_60_0.png](https://cdn.nlark.com/yuque/0/2019/png/349862/1558073305799-cb697cb5-daad-4bad-8019-7e238f8d9c8a.png#align=left&display=inline&height=271&name=output_60_0.png&originHeight=271&originWidth=395&size=42994&status=done&width=395)
+![output_60_0.png](https://imgbed.momodel.cn/1558073305799-cb697cb5-daad-4bad-8019-7e238f8d9c8a.png)
 
 <a name="d6abd198"></a>
 ### 第六步 思考，如何进一步的改进模型？
@@ -376,7 +379,7 @@ def series_to_supervised(data, n_in=1, n_out=1, dropnan=True):
 <a name="25f9c7fa"></a>
 ### 第七步 总结
 
-今天我们一起制作了一个家庭用户用电预测的应用，大家可以在项目源码地址 fork 这个项目<br />[http://www.momodel.cn:8899/explore/5cde0ed11afd94371e5697ff?type=app](http://www.momodel.cn:8899/explore/5cde0ed11afd94371e5697ff?type=app)
+今天我们一起制作了一个家庭用户用电预测的应用，大家可以在项目源码地址 fork 这个项目<br />[http://www.momodel.cn/explore/5cde0ed11afd94371e5697ff?type=app](http://www.momodel.cn/explore/5cde0ed11afd94371e5697ff?type=app)
 
 我们首先对数据进行预处理，处理缺失值；接着进行数据可视化，了解数据的结构和相关性；然后搭建 LSTM 模型，其中最为关键的是将问题转化为监督学习问题；最后我们对模型进行评估，并提出了优化模型的建议。
 
